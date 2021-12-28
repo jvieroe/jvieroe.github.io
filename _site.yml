@@ -1,6 +1,5 @@
 name: "jvieroe.github.io"
 title: "jvieroe.github.io"
-theme: theme.css
 description: |
   jvieroe.github.io
 output_dir: "docs"
