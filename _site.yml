@@ -9,8 +9,6 @@ navbar:
       href: index.html
     - text: "Projects"
       href: projects.html
-    - text: "DataViz Gallery"
-      href: gallery.html
     - text: "About"
       href: about.html
     - text: "CV"
