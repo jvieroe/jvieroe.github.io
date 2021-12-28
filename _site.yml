@@ -7,8 +7,12 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
     - text: "Projects"
       href: projects.html
+    - text: "DataViz Gallery"
+      href: gallery.html
+    - text: "About"
+      href: about.html
+    - text: "CV"
+      href: cv.html
 output: distill::distill_article
