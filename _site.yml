@@ -5,6 +5,8 @@ description: |
 output_dir: "docs"
 navbar:
   right:
+    - text: "Front"
+      href: postcard.html
     - text: "Home"
       href: index.html
     - text: "Projects"
