@@ -1,15 +1,15 @@
 ---
-title: "Frank Hermosillo"
+title: "Jeppe Vierø"
 image: "frank.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "linkedin.com/in/jeppe-vierø-028b4320b"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/jvieroe"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/jvieroe"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:jvieroe@gmail.com"
 output:
   postcards::trestles
 ---
