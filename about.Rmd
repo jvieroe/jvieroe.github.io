@@ -20,7 +20,7 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 
 * Have a look at some of my <a href="https://github.com/jvieroe/dataviz" target="_blank">various data visualizations</a> &#128202; 
-* ... and my <a href="https://github.com/jvieroe/TidyTuesday" target="_blank"> #TidyTuesday</a> &#128200; <a href="https://github.com/jvieroe/TidyTuesday" target="_blank"> commits</a>
+* ... and my <a href="https://github.com/jvieroe/TidyTuesday" target="_blank"> #TidyTuesday commits</a> &#128200; 
 * I have also published (or am working on) a few <i class="fab fa-r-project"></i> packages &#128230;
 * You can check out my resumé <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf" target="_blank"> here</a> (download [here](https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf))
 
