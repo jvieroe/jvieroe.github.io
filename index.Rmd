@@ -2,14 +2,14 @@
 title: "Jeppe Vierø"
 image: "jvieroe.png"
 links:
-  - label: LinkedIn
-    url: "linkedin.com/in/jeppe-vierø-028b4320b"
   - label: Twitter
     url: "https://twitter.com/jvieroe"
   - label: GitHub
     url: "https://github.com/jvieroe"
   - label: Email
     url: "mailto:jvieroe@gmail.com"
+  - label: LinkedIn
+    url: "linkedin.com/in/jeppe-vierø-028b4320b"
 output:
   postcards::trestles
 site: distill::distill_website
