@@ -2,7 +2,7 @@
 title: "Welcome"
 description: |
   A trial blog post!
-preview: logos/distill.png
+preview: distill.png
 author:
   - name: Jeppe Vierø
 date: 2022-01-15
