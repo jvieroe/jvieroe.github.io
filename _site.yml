@@ -5,7 +5,7 @@ description: |
 output_dir: "docs"
 navbar:
   logo:
-    image: images/Rlogo.png
+    image: logos/RStudio-Logo-White.png
     href: https://www.rstudio.com
   search: true
   right:

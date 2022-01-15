@@ -6,35 +6,35 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\nText about me\n\n\n\n",
-      "last_modified": "2022-01-15T02:02:20+01:00"
+      "last_modified": "2022-01-15T02:05:01+01:00"
     },
     {
       "path": "blog.html",
       "title": "Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-01-15T02:02:20+01:00"
+      "last_modified": "2022-01-15T02:05:01+01:00"
     },
     {
       "path": "cv.html",
       "title": "CV",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-01-15T02:02:20+01:00"
+      "last_modified": "2022-01-15T02:05:02+01:00"
     },
     {
       "path": "index.html",
       "title": "Jeppe Vierø",
       "author": [],
       "contents": "\n\n          \n          \n          \n          \n          jvieroe\n          \n          \n          Home\n          Blog\n          Projects\n          About\n          CV\n          \n          \n          \n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Jeppe Vierø\n            \n            \n              \n                \n                    \n                      \n                        Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                    \n                    \n                      \n                        LinkedIn\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Bio\n            …. text\n            \n            \n            Education\n            University of Copenhagen | Copenhagen, Denmark\n            MSc in Political Science | 2021\n            BSc in Political Science | 2017\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Jeppe Vierø\n            \n            \n              \n                \n                                    \n                    \n                      Twitter\n                    \n                  \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                  \n              \n            \n            \n              \n              Bio\n              …. text\n              \n              \n              Education\n              University of Copenhagen | Copenhagen, Denmark\n              MSc in Political Science | 2021\n              BSc in Political Science | 2017\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2022-01-15T02:02:20+01:00"
+      "last_modified": "2022-01-15T02:05:02+01:00"
     },
     {
       "path": "projects.html",
       "title": "Projects",
       "author": [],
       "contents": "\nR Markdown\nThis is where I will list my cool projects!\n\n\n\n",
-      "last_modified": "2022-01-15T02:02:21+01:00"
+      "last_modified": "2022-01-15T02:05:02+01:00"
     }
   ],
   "collections": ["posts/posts.json"]
