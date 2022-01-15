@@ -5,7 +5,7 @@ description: |
 preview: distill.png
 author:
   - name: Jeppe Vierø
-date: 2022-01-15
+date: 2022-01-16
 output:
   distill::distill_article:
     self_contained: false
