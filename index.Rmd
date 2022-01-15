@@ -9,7 +9,7 @@ links:
   - label: '<i class="fas fa-envelope"></i> Email'
     url: "mailto:jvieroe@gmail.com"
   - label: '<i class="fab fa-linkedin"></i> LinkedIn'
-    url: "linkedin.com/in/jeppe-vierø-028b4320b"
+    url: "https://www.linkedin.com/in/jeppe-vierø-028b4320b/"
 output:
   postcards::jolla
 site: distill::distill_website
