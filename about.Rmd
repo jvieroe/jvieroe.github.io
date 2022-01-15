@@ -10,14 +10,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <!-- [text](link) -->
 
-I'm a Social Data Scientist with a background in Political Science, applied quantitative methods, causal inference, and programming in [<img src="https://www.r-project.org/logo/Rlogo.svg" alt="" width="20">](https://www.r-project.org/).
+I'm a Social Data Scientist with a background in Political Science, applied quantitative methods, causal inference, and programming in <i class="fab fa-r-project"></i>.
+
+
 
 A former PhD student at the [Department of Political Science (UCPH)](https://politicalscience.ku.dk), I currently work as a consultant/analyst/data scientist for a private Danish consultancy firm.
 
 Recently, I've been focusing on spatial data analysis 🗺️, data visualization &#128202;, and sports analytics &#9917;.
 
 * Have a look at some of my various data visualizations &#128202; [here](https://github.com/jvieroe/dataviz) and my [TidyTuesday](https://github.com/rfordatascience/tidytuesday) commits &#128200; [here](https://github.com/jvieroe/TidyTuesday)
-* I have also published (or am working on) a few <img src="https://www.r-project.org/logo/Rlogo.svg" alt="" width="20"> packages &#128230;
+* I have also published (or am working on) a few <i class="fab fa-r-project"></i> packages &#128230;
 * You can check out my resumé [here](https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf) (download [here](https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf))
 
 <br>
@@ -27,15 +29,14 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 <br>
 
+<!-- <i class="fab fa-r-project"> -->
+
+
 <div class="mylinks">
 <p style="text-align: center;">
-    <a href="https://github.com/jvieroe" target="_blank" class="fa fa-github"  style="font-size:36px;"></a> &emsp;
-    <a href="mailto:jvieroe@gmail.com" target="_blank" class="fa fa-envelope" style="font-size:36px;"></a> &emsp;
-    <a href="https://www.linkedin.com/in/jeppe-vierø-028b4320b/" target="_blank" class="fa fa-linkedin-square" style="font-size:36px;"></a> &emsp;
-    <a href="https://twitter.com/jvieroe" target="_blank" class="fa fa-twitter" style="font-size:36px;"></a>
+    <a href="https://github.com/jvieroe" target="_blank" class="fab fa-r-project"  style="font-size:36px;"></a> &emsp;
 </p>
 </div>
-
 
 <br>
 
