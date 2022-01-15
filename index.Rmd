@@ -1,20 +1,40 @@
 ---
-title: "jvieroe.github.io"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Jeppe Vierø"
+image: "pp.png"
+links:
+  - label: LinkedIn
+    url: "linkedin.com/in/jeppe-vierø-028b4320b"
+  - label: Twitter
+    url: "https://twitter.com/jvieroe"
+  - label: GitHub
+    url: "https://github.com/jvieroe"
+  - label: Email
+    url: "mailto:jvieroe@gmail.com"
+output:
+  postcards::trestles
 site: distill::distill_website
 ---
+ 
+## Bio
 
-This is my new website!
+.... studies neural networks and their applications at Google 
+Brain. His research focuses on differentiable network pruning approximation and 
+decentralized gradient inversion mechanics. He frequently collaborates with 
+researchers who study machine learning, computer vision, and cognitive science.
+His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
+Times Magazine.
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+## Education
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+**University of Copenhagen** | Copenhagen, Denmark
 
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
+MSc in Political Science | 2021
 
-```
+BSc in Political Science | 2017
 
+
+## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
