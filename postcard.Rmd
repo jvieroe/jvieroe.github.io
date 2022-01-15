@@ -1,6 +1,6 @@
 ---
 title: "Jeppe Vierø"
-image: "p_picture.jpg"
+image: "pp.png"
 links:
   - label: LinkedIn
     url: "linkedin.com/in/jeppe-vierø-028b4320b"
@@ -16,7 +16,7 @@ output:
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
+.... studies neural networks and their applications at Google 
 Brain. His research focuses on differentiable network pruning approximation and 
 decentralized gradient inversion mechanics. He frequently collaborates with 
 researchers who study machine learning, computer vision, and cognitive science.
@@ -25,13 +25,12 @@ Times Magazine.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**University of Copenhagen** | Copenhagen, Denmark
 
-Ph.D. in Computer Science | September 2009 - May 2014
+MSc in Political Science | 2021
 
-**The University of California, Berkeley** | Berkeley, CA
+BSc in Political Science | 2017
 
-B.S. in Computer Science | September 2005 - May 2009
 
 ## Experience
 
