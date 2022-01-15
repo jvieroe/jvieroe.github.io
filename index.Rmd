@@ -2,27 +2,17 @@
 title: "Jeppe Vierø"
 image: "jvieroe.png"
 links:
-  - label: Twitter
+  - label: '<i class="fab fa-twitter"></i> Twitter'
     url: "https://twitter.com/jvieroe"
-  - label: GitHub
+  - label: '<i class="fab fa-github"></i> GitHub'
     url: "https://github.com/jvieroe"
-  - label: Email
+  - label: '<i class="fas fa-envelope"></i> Email'
     url: "mailto:jvieroe@gmail.com"
-  - label: LinkedIn
+  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
     url: "linkedin.com/in/jeppe-vierø-028b4320b"
 output:
-  postcards::trestles
+  postcards::jolla
 site: distill::distill_website
 ---
  
-## Bio
-
-.... text
-
-## Education
-
-**University of Copenhagen** | Copenhagen, Denmark
-
-MSc in Political Science | 2021
-
-BSc in Political Science | 2017
+Text...
