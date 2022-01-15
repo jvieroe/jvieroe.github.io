@@ -1,6 +1,6 @@
 ---
 title: "Jeppe Vierø"
-image: "frank.jpg"
+image: "p_picture.jpg"
 links:
   - label: LinkedIn
     url: "linkedin.com/in/jeppe-vierø-028b4320b"
