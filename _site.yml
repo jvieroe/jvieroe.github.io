@@ -6,8 +6,8 @@ output_dir: "docs"
 navbar:
   logo:
     image: logos/RStudio-Logo-White.png
-    href: https://www.rstudio.com
-  search: true
+    href: https://github.com/jvieroe/jvieroe.github.io
+  search: false
   right:
     - text: "Home"
       href: index.html
