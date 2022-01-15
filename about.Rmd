@@ -29,14 +29,15 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 <br>
 
-<!-- <i class="fab fa-r-project"> -->
-
-
 <div class="mylinks">
 <p style="text-align: center;">
     <a href="https://github.com/jvieroe" target="_blank" class="fab fa-r-project"  style="font-size:36px;"></a> &emsp;
 </p>
 </div>
+
+
+<img src="logos/RStudio-Logo-Black.png" alt="" width="20"></a>
+
 
 <br>
 
