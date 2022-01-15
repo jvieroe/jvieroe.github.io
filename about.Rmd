@@ -10,24 +10,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <!-- [text](link) -->
 
-I'm a Social Data Scientist with a background in Political Science, applied quantitative methods, and programming in [<img src="https://www.r-project.org/logo/Rlogo.svg" alt="" width="20">](https://www.r-project.org/).
+I'm a Social Data Scientist with a background in Political Science, applied quantitative methods, causal inference, and programming in [<img src="https://www.r-project.org/logo/Rlogo.svg" alt="" width="20">](https://www.r-project.org/).
 
 A former PhD student at the [Department of Political Science (UCPH)](https://politicalscience.ku.dk), I currently work as a consultant/analyst/data scientist for a private Danish consultancy firm.
 
 Recently, I've been focusing on spatial data analysis 🗺️, data visualization &#128202;, and sports analytics &#9917;.
 
 * Have a look at some of my various data visualizations &#128202; [here](https://github.com/jvieroe/dataviz) and my [TidyTuesday](https://github.com/rfordatascience/tidytuesday) commits &#128200; [here](https://github.com/jvieroe/TidyTuesday)
-* x
+* I have also published (or am working on) a few <img src="https://www.r-project.org/logo/Rlogo.svg" alt="" width="20"> packages &#128230;
++ x
 
-
-  <li>I have also published (or am working on) a few <a href="https://www.r-project.org/"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="" width="20"></a> packages &#128230;: 
-      <a href="https://github.com/jvieroe/dyadicdist"> dyadicdist</a>,
-      <a href="https://github.com/jvieroe/repinion"> repinion</a>, 
-      <a href="https://github.com/jvieroe/voters"> voters</a>, 
-      <a href="https://github.com/jvieroe/ricardo"> ricardo</a>, and 
-      <a href="https://github.com/jvieroe/claudius"> claudius</a> 
-  </li>
-</ul>
 
 
 You can check out my resumé <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf" target="_blank"> here </a> (download <a href="https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf"> here</a>).
