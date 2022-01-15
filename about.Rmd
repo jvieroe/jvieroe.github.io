@@ -25,6 +25,12 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 <br>
 
 
+<a href="https://github.com/jvieroe/dataviz"> No target </a>
+
+<a href="https://github.com/jvieroe/dataviz" target="_blank"> Target blank </a> 
+
+[RMD](https://github.com/jvieroe/dataviz)
+
 
 <!-- <center> -->
 **Skills**
@@ -85,7 +91,7 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 <div class="mylinks">
 <p style="text-align: center;">
-    <a href="https://github.com/jvieroe" target="_blank" class="fa fa-github"  style="font-size:36px;"></a> &emsp;
+    <a href="https://github.com/jvieroe" target="_blank" class="fa fa-github" style="font-size:36px;"></a> &emsp;
     <a href="mailto:jvieroe@gmail.com" target="_blank" class="fa fa-envelope" style="font-size:36px;"></a> &emsp;
     <a href="https://www.linkedin.com/in/jeppe-vierø-028b4320b/" target="_blank" class="fa fa-linkedin-square" style="font-size:36px;"></a> &emsp;
     <a href="https://twitter.com/jvieroe" target="_blank" class="fa fa-twitter" style="font-size:36px;"></a>
