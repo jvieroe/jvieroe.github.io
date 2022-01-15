@@ -31,10 +31,3 @@ Times Magazine.
 MSc in Political Science | 2021
 
 BSc in Political Science | 2017
-
-
-## Experience
-
-**Google Brain** | Principal Investigator | January 2018 - Present
-
-**Netflix** | Research Scientist | June 2014 - December 2017
