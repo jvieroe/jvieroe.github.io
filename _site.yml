@@ -13,6 +13,10 @@ navbar:
       href: index.html
     - text: "Blog"
       href: blog.html
+    - text: "DataViz"
+      menu:
+      - text: "TidyTuesday"
+        href: tidytuesday.html
     - text: "Projects"
       href: projects.html
     - text: "About"
