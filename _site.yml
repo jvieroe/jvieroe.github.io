@@ -4,6 +4,10 @@ description: |
   jvieroe.github.io
 output_dir: "docs"
 navbar:
+  logo:
+    image: images/Rlogo.png
+    href: https://www.rstudio.com
+  search: true
   right:
     - text: "Home"
       href: index.html
