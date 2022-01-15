@@ -21,8 +21,6 @@ navbar:
       href: projects.html
     - text: "About"
       href: about.html
-    - text: "CV"
-      href: cv.html
     - icon: fab fa-github
       href: https://github.com/jvieroe
     - icon: fab fa-twitter
