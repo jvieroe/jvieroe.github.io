@@ -1,7 +1,8 @@
 ---
-title: "welcome"
+title: "Welcome"
 description: |
-  A short description of the post.
+  A trial blog post!
+preview: logos/distill.png
 author:
   - name: Jeppe Vierø
 date: 2022-01-15
@@ -15,8 +16,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+My very first blog post!
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
 
 
