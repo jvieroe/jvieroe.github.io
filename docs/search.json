@@ -3,45 +3,45 @@
     {
       "path": "about.html",
       "title": "Who am I?",
-      "description": "Some additional details about the website",
+      "description": "\\> Some additional details about the website",
       "author": [],
-      "contents": "\n\nI’m a Social Data Scientist with a background in Political Science, applied quantitative methods, and programming in .\nA former PhD student at the Department of Political Science (UCPH), I currently work as a consultant/analyst/data scientist for a private Danish consultancy firm. You can check out my resumé  here  (download  here).\nRecently I’ve been focusing on spatial data analysis 🗺️, data visualization 📊, and sports analytics ⚽.\n\n\n\nHave a look at some of my various data visualizations 📊  here and my  #TidyTuesday commits 📈  here \n\n\nI have also published (or am working on) a few   packages 📦:  dyadicdist,  repinion,  voters,  ricardo, and  claudius\n\n\n         \n\n\n\n\n",
-      "last_modified": "2022-01-15T20:55:59+01:00"
+      "contents": "\n\nI’m a Social Data Scientist with a background in Political Science, applied quantitative methods, and programming in .\nA former PhD student at the Department of Political Science (UCPH), I currently work as a consultant/analyst/data scientist for a private Danish consultancy firm.\nRecently, I’ve been focusing on spatial data analysis 🗺️, data visualization 📊, and sports analytics ⚽.\nHave a look at some of my various data visualizations 📊 here and my TidyTuesday commits 📈 here\nx\n\nI have also published (or am working on) a few   packages 📦:  dyadicdist,  repinion,  voters,  ricardo, and  claudius\n\nYou can check out my resumé  here  (download  here).\n\n         \n\n\n\n\n",
+      "last_modified": "2022-01-15T21:02:43+01:00"
     },
     {
       "path": "blog.html",
       "title": "Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-01-15T20:55:59+01:00"
+      "last_modified": "2022-01-15T20:57:06+01:00"
     },
     {
       "path": "cv.html",
       "title": "CV",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-01-15T20:55:59+01:00"
+      "last_modified": "2022-01-15T20:57:06+01:00"
     },
     {
       "path": "index.html",
       "title": "Jeppe Vierø",
       "author": [],
       "contents": "\n\n          \n          \n          \n          \n          jvieroe\n          \n          \n          Home\n          Blog\n          \n          \n          DataViz\n           \n          ▾\n          \n          \n          TidyTuesday\n          \n          \n          Projects\n          About\n          \n          \n          \n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Jeppe Vierø\n            \n            \n              \n                \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Email\n                      \n                    \n                  \n                                    \n                    \n                      \n                         LinkedIn\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            Text…\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Jeppe Vierø\n            \n            \n              \n                \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Email\n                    \n                  \n                                    \n                    \n                       LinkedIn\n                    \n                  \n                                  \n              \n            \n            \n              Text…\n            \n        \n      \n    \n\n    \n    \n    \n      © 2022. Site created in   using the {distill} and {postcards} packages\n      \n      \n\n  \n  ",
-      "last_modified": "2022-01-15T20:55:59+01:00"
+      "last_modified": "2022-01-15T20:57:06+01:00"
     },
     {
       "path": "projects.html",
       "title": "Projects",
       "author": [],
       "contents": "\nR Markdown\nThis is where I will list my cool projects!\n\n\n\n",
-      "last_modified": "2022-01-15T20:56:00+01:00"
+      "last_modified": "2022-01-15T20:57:06+01:00"
     },
     {
       "path": "tidytuesday.html",
       "title": "TidyTuesday",
       "author": [],
       "contents": "\n… tt\n\n\n\n",
-      "last_modified": "2022-01-15T20:56:00+01:00"
+      "last_modified": "2022-01-15T20:57:07+01:00"
     }
   ],
   "collections": ["posts/posts.json"]

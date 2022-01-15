@@ -1,7 +1,7 @@
 ---
 title: "Who am I?"
 description: |
-  Some additional details about the website
+  \> Some additional details about the website
 ---
 
 ```{r setup, include=FALSE}
@@ -16,15 +16,10 @@ A former PhD student at the [Department of Political Science (UCPH)](https://pol
 
 Recently, I've been focusing on spatial data analysis 🗺️, data visualization &#128202;, and sports analytics &#9917;.
 
+* Have a look at some of my various data visualizations &#128202; [here](https://github.com/jvieroe/dataviz) and my [TidyTuesday](https://github.com/rfordatascience/tidytuesday) commits &#128200; [here](https://github.com/jvieroe/TidyTuesday)
+* x
 
-You can check out my resumé <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf" target="_blank"> here </a> (download <a href="https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf"> here</a>).
 
-<!--<img src="https://github.com/jvieroe/dataviz/blob/main/2021/superliga/accumulated_points.png?raw=true" alt="" width="750">-->
-
-<!--<svg>https://www.r-project.org/logo/Rlogo.svg</svg>-->
-
-<ul>
-  <li>Have a look at some of my various data visualizations &#128202; <a href="https://github.com/jvieroe/dataviz"> here</a> and my <a href="https://github.com/rfordatascience/tidytuesday"> #TidyTuesday</a> commits &#128200; <a href="https://github.com/jvieroe/TidyTuesday"> here </a> </li>
   <li>I have also published (or am working on) a few <a href="https://www.r-project.org/"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="" width="20"></a> packages &#128230;: 
       <a href="https://github.com/jvieroe/dyadicdist"> dyadicdist</a>,
       <a href="https://github.com/jvieroe/repinion"> repinion</a>, 
@@ -34,6 +29,8 @@ You can check out my resumé <a href="https://github.com/jvieroe/CV/blob/main/CV
   </li>
 </ul>
 
+
+You can check out my resumé <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf" target="_blank"> here </a> (download <a href="https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf"> here</a>).
 
 </br>
 
