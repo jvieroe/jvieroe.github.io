@@ -153,22 +153,27 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 
 
-:::: {style="display: grid; grid-template-columns: 40% 50%; grid-column-gap: 30px; line-height: 1.5rem;"}
+:::: {style="display: grid; grid-template-columns: 30% 30% 30%; grid-column-gap: 20px; line-height: 1.5rem;"}
 
 ::: {}
 <ul class="fa-ul">
   <li><i class="fab fa-r-project" style="font-size:36px;"></i></li>
   <li><img src="logos/RStudio-Logo-DarkGray.png" alt="" height="30"></li>
   <li><img src="logos/stata_gray.png" alt="" height="30"></li>
+</ul>
+:::
+
+::: {}
+<ul class="fa-ul">
   <li><i class="fas fa-globe-africa" style="font-size:36px;"></i></li>
+  <li><i class="fab fa-git" style="font-size:36px;"></i></li>
+  <li><i class="fab fa-github-square" style="font-size:36px;"></i></li>
 </ul>
 :::
 
 ::: {}
 <ul class="fa-ul">
   <li><i class="fab fa-html5" style="font-size:36px;"></i></li>
-  <li><i class="fab fa-git" style="font-size:36px;"></i></li>
-  <li><i class="fab fa-github-square" style="font-size:36px;"></i></li>
   <li><i class="fas fa-database" style="font-size:36px;"></i></li>
 </ul>
 :::
