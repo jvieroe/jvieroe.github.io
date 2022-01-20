@@ -18,7 +18,7 @@ navbar:
       - text: "TidyTuesday"
         href: tidytuesday.html
       - text: "Maps"
-        href: tidytuesday.html
+        href: maps.html
     - text: "Software"
       href: rpackages.html
     - text: "About"
