@@ -27,14 +27,47 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 
 
-
-
-
-<!-- <center> -->
-**Skills**
-<!-- </center> -->
+### Contact
 
 <br>
+
+<div class="mylinks">
+<p style="text-align: center;">
+    <a href="https://github.com/jvieroe" target="_blank" class="fa fa-github" style="font-size:36px;"></a> &emsp;
+    <a href="mailto:jvieroe@gmail.com" target="_blank" class="fa fa-envelope" style="font-size:36px;"></a> &emsp;
+    <a href="https://www.linkedin.com/in/jeppe-vierø-028b4320b/" target="_blank" class="fa fa-linkedin-square" style="font-size:36px;"></a> &emsp;
+    <a href="https://twitter.com/jvieroe" target="_blank" class="fa fa-twitter" style="font-size:36px;"></a>
+</p>
+</div>
+
+
+
+### Skills
+
+
+
+<div class="myskills">
+<p style="text-align: center;">
+    <i class="fab fa-r-project" style="font-size:36px;"></i> &emsp; &emsp; &emsp;
+    <img src="logos/RStudio-Logo-Black.png" alt="" height="30"> &emsp; &emsp; &emsp;
+    <img src="logos/stata_black.png" alt="" height="30">  &emsp; &emsp; &emsp;
+    <i class="fab fa-html5" style="font-size:36px;"></i> 
+</p>
+<p style="text-align: center;">
+    <i class="fab fa-git" style="font-size:36px;"></i> &emsp; &emsp; &emsp; 
+    <i class="fab fa-github-square" style="font-size:36px;"></i> &emsp; &emsp; &emsp;
+    <i class="fas fa-database" style="font-size:36px;"></i> &emsp; &emsp; &emsp;
+    <i class="far fa-file-excel" style="font-size:36px;"></i> &emsp; &emsp; &emsp;
+    <i class="fas fa-globe-africa" style="font-size:36px;"></i>
+</p>
+</div>
+
+
+<br>
+
+
+
+
 
 <!-- <div class="myskills"> -->
 <!-- <p style="text-align: center;"> -->
@@ -64,37 +97,56 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 <!-- </div> -->
 
 
-<div class="myskills">
-<p style="text-align: center;">
-    <i class="fab fa-r-project" style="font-size:36px;"></i> &emsp; &emsp; &emsp;
-    <img src="logos/RStudio-Logo-Black.png" alt="" height="30"> &emsp; &emsp; &emsp;
-    <img src="logos/stata_black.png" alt="" height="30">  &emsp; &emsp; &emsp;
-    <i class="fab fa-html5" style="font-size:36px;"></i> 
-</p>
-<p style="text-align: center;">
-    <i class="fab fa-git" style="font-size:36px;"></i> &emsp; &emsp; &emsp; 
-    <i class="fab fa-github-square" style="font-size:36px;"></i> &emsp; &emsp; &emsp;
-    <i class="fas fa-database" style="font-size:36px;"></i> &emsp; &emsp; &emsp;
-    <i class="far fa-file-excel" style="font-size:36px;"></i> &emsp; &emsp; &emsp;
-    <i class="fas fa-globe-africa" style="font-size:36px;"></i>
-</p>
-</div>
+### Profile
+
+```{css, echo = FALSE}
+.columnname {
+  font-size: 1.4rem; 
+  font-weight: 600;
+}
+.grad-item {
+  list-style: none; 
+  background-image: url(graduation-cap-solid.png); 
+  background-repeat: no-repeat;  
+  background-size: 1.2rem; 
+  padding-left: 2rem;
+}
+.grad-location {
+  font-size: 0.8rem;
+  color: grey;
+}
+```
 
 
-<br>
+:::: {style="display: grid; grid-template-columns: 40% 50%; grid-column-gap: 30px; line-height: 1.5rem;"}
 
-**Contact**
+::: {}
+<span class = "columnname"> Interests </span>
 
-<br>
+* Economics
 
-<div class="mylinks">
-<p style="text-align: center;">
-    <a href="https://github.com/jvieroe" target="_blank" class="fa fa-github" style="font-size:36px;"></a> &emsp;
-    <a href="mailto:jvieroe@gmail.com" target="_blank" class="fa fa-envelope" style="font-size:36px;"></a> &emsp;
-    <a href="https://www.linkedin.com/in/jeppe-vierø-028b4320b/" target="_blank" class="fa fa-linkedin-square" style="font-size:36px;"></a> &emsp;
-    <a href="https://twitter.com/jvieroe" target="_blank" class="fa fa-twitter" style="font-size:36px;"></a>
-</p>
-</div>
+* International migration
+
+* Political attitudes
+
+* R programming
+:::
+
+::: {}
+<span class = "columnname"> Education </span>
+
+<ul>
+ 
+<li class = "grad-item">   MSc in Political Science, 2021 <br>
+<p class = "grad-location"> University of Copenhagen, Denmark </p> </li>
+<li class = "grad-item">   BSc in Political Science, 2017 <br>
+<p class = "grad-location"> University of Copenhagen, Denmark </p> 
+</li>
+
+</ul>
+:::
+::::
+
 
 
 

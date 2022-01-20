@@ -22,4 +22,3 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 See [here](about.html)
 
-
