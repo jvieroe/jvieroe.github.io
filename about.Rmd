@@ -99,6 +99,8 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 ### Profile
 
+<br>
+
 ```{css, echo = FALSE}
 .columnname {
   font-size: 1.4rem; 
@@ -123,13 +125,14 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 ::: {}
 <span class = "columnname"> Interests </span>
 
-* Economics
+* Politics and Political Science
 
-* International migration
+* Data Visualization
 
-* Political attitudes
+* <i class="fab fa-r-project"></i> programming
 
-* R programming
+* Geospatial data analysis and maps
+
 :::
 
 ::: {}
