@@ -29,8 +29,6 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 ### Contact
 
-<br>
-
 <div class="mylinks">
 <p style="text-align: center;">
     <a href="https://github.com/jvieroe" target="_blank" class="fa fa-github" style="font-size:36px;"></a> &emsp;
@@ -100,8 +98,8 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 ```{css, echo = FALSE}
 .columnname {
-  font-size: 1.4rem; 
-  font-weight: 600;
+  font-size: 1.2rem; 
+  font-weight: 500;
 }
 .grad-item {
   list-style: none; 
@@ -147,7 +145,7 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 :::
 ::::
 
-
+<br>
 
 ### Skills
 
