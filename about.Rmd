@@ -42,25 +42,22 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 
 
-### Skills
 
-
-
-<div class="myskills">
-<p style="text-align: center;">
-    <i class="fab fa-r-project" style="font-size:36px;"></i> &emsp; &emsp; &emsp;
-    <img src="logos/RStudio-Logo-Black.png" alt="" height="30"> &emsp; &emsp; &emsp;
-    <img src="logos/stata_black.png" alt="" height="30">  &emsp; &emsp; &emsp;
-    <i class="fab fa-html5" style="font-size:36px;"></i> 
-</p>
-<p style="text-align: center;">
-    <i class="fab fa-git" style="font-size:36px;"></i> &emsp; &emsp; &emsp; 
-    <i class="fab fa-github-square" style="font-size:36px;"></i> &emsp; &emsp; &emsp;
-    <i class="fas fa-database" style="font-size:36px;"></i> &emsp; &emsp; &emsp;
-    <i class="far fa-file-excel" style="font-size:36px;"></i> &emsp; &emsp; &emsp;
-    <i class="fas fa-globe-africa" style="font-size:36px;"></i>
-</p>
-</div>
+<!-- <div class="myskills"> -->
+<!-- <p style="text-align: center;"> -->
+<!--     <i class="fab fa-r-project" style="font-size:36px;"></i> &emsp; &emsp; &emsp; -->
+<!--     <img src="logos/RStudio-Logo-DarkGray.png" alt="" height="30"> &emsp; &emsp; &emsp; -->
+<!--     <img src="logos/stata_gray.png" alt="" height="30">  &emsp; &emsp; &emsp; -->
+<!--     <i class="fab fa-html5" style="font-size:36px;"></i>  -->
+<!-- </p> -->
+<!-- <p style="text-align: center;"> -->
+<!--     <i class="fab fa-git" style="font-size:36px;"></i> &emsp; &emsp; &emsp;  -->
+<!--     <i class="fab fa-github-square" style="font-size:36px;"></i> &emsp; &emsp; &emsp; -->
+<!--     <i class="fas fa-database" style="font-size:36px;"></i> &emsp; &emsp; &emsp; -->
+<!--     <i class="far fa-file-excel" style="font-size:36px;"></i> &emsp; &emsp; &emsp; -->
+<!--     <i class="fas fa-globe-africa" style="font-size:36px;"></i> -->
+<!-- </p> -->
+<!-- </div> -->
 
 
 <br>
@@ -152,7 +149,39 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 
 
+## Skills
 
+
+
+:::: {style="display: grid; grid-template-columns: 40% 50%; grid-column-gap: 30px; line-height: 1.5rem;"}
+
+::: {}
+<ul class="fa-ul">
+  <li><i class="fab fa-r-project" style="font-size:36px;"></i></li>
+  <img src="logos/RStudio-Logo-DarkGray.png" alt="" height="30"></li>
+  <li>List icons (like these)</li>
+</ul>
+:::
+
+
+::::
+
+
+<div class="myskills">
+<p style="text-align: center;">
+    <i class="fab fa-r-project" style="font-size:36px;"></i> &emsp; &emsp; &emsp;
+    <img src="logos/RStudio-Logo-DarkGray.png" alt="" height="30"> &emsp; &emsp; &emsp;
+    <img src="logos/stata_gray.png" alt="" height="30">  &emsp; &emsp; &emsp;
+    <i class="fab fa-html5" style="font-size:36px;"></i> 
+</p>
+<p style="text-align: center;">
+    <i class="fab fa-git" style="font-size:36px;"></i> &emsp; &emsp; &emsp; 
+    <i class="fab fa-github-square" style="font-size:36px;"></i> &emsp; &emsp; &emsp;
+    <i class="fas fa-database" style="font-size:36px;"></i> &emsp; &emsp; &emsp;
+    <i class="far fa-file-excel" style="font-size:36px;"></i> &emsp; &emsp; &emsp;
+    <i class="fas fa-globe-africa" style="font-size:36px;"></i>
+</p>
+</div>
 
 
 

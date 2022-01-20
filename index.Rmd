@@ -21,4 +21,3 @@ I'm a Social Data Scientist with a background in Political Science, applied quan
 Recently, I've been focusing on spatial data analysis 🗺️, data visualization &#128202;, and sports analytics &#9917;.
 
 See [here](about.html)
-
