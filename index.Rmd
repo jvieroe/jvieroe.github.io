@@ -14,10 +14,10 @@ output:
   postcards::trestles
 site: distill::distill_website
 ---
- 
+
+## About 
 I'm a Social Data Scientist with a background in Political Science, applied quantitative methods, causal inference, and programming in <i class="fab fa-r-project"></i>.
 
-
-A former PhD student in Political Science, I currently work as a consultant/analyst/data scientist for a private Danish consultancy firm.
-
 Recently, I've been focusing on spatial data analysis 🗺️, data visualization &#128202;, and sports analytics &#9917;.
+
+See [here](about.html)
