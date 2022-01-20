@@ -13,9 +13,11 @@ navbar:
       href: index.html
     - text: "Blog"
       href: blog.html
-    - text: "DataViz"
+    - text: "Gallery"
       menu:
       - text: "TidyTuesday"
+        href: tidytuesday.html
+      - text: "Maps"
         href: tidytuesday.html
     - text: "Software"
       href: rpackages.html
