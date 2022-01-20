@@ -19,5 +19,3 @@ site: distill::distill_website
 I'm a Social Data Scientist with a background in Political Science, applied quantitative methods, causal inference, and programming in <i class="fab fa-r-project"></i>.
 
 Recently, I've been focusing on spatial data analysis 🗺️, data visualization &#128202;, and sports analytics &#9917;.
-
-See [here](about.html)
