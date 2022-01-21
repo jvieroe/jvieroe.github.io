@@ -155,24 +155,26 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 ::: {}
 <ul class="fa-ul">
-  <li><i class="fab fa-r-project" style="font-size:36px;"></i></li>
-  <li><img src="logos/RStudio-Logo-DarkGray.png" alt="" height="30"></li>
-  <li><img src="logos/stata_gray.png" alt="" height="30"></li>
+  <li><a href="https://en.wikipedia.org/wiki/R_(programming_language)" target="_blank"><i class="fab fa-r-project" style="font-size:36px;"></i></a></li>
+  <li><a href="https://en.wikipedia.org/wiki/RStudio" target="_blank"><img src="logos/RStudio-Logo-DarkGray.png" alt="" height="30"></i></a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Stata" target="_blank"><img src="logos/stata_gray.png" alt="" height="30"></a></li>
 </ul>
 :::
 
 ::: {}
 <ul class="fa-ul">
-  <li><i class="fas fa-globe-africa" style="font-size:36px;"></i></li>
-  <li><i class="fab fa-git" style="font-size:36px;"></i></li>
-  <li><i class="fab fa-github-square" style="font-size:36px;"></i></li>
+  <li><a href="https://en.wikipedia.org/wiki/QGIS" target="_blank"><img src="logos/qgis-icon-black128.png" alt="" height="30"></a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Git" target="_blank"><i class="fab fa-git" style="font-size:36px;"></i></a></li>
+  <li><a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><i class="fab fa-github-square" style="font-size:36px;"></i></a></li>
 </ul>
 :::
 
 ::: {}
 <ul class="fa-ul">
-  <li><i class="fab fa-html5" style="font-size:36px;"></i></li>
-  <li><i class="fas fa-database" style="font-size:36px;"></i></li>
+  <li><a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><i class="fab fa-html5" style="font-size:36px;"></i></a></li>
+  <li><a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><i class="fas fa-database" style="font-size:36px;"></i></a></li>
+  <li></li>
+  <li></li>
 </ul>
 :::
 
