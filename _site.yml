@@ -14,11 +14,15 @@ navbar:
     - text: "Blog"
       href: blog.html
     - text: "Gallery"
-      menu:
-      - text: "TidyTuesday"
-        href: tidytuesday.html
-      - text: "Maps"
-        href: maps.html
+      href: gallery.html
+    # - text: "Gallery"
+    #   menu:
+    #   - text: "Gallery"
+    #     href: gallery.html
+    #   - text: "TidyTuesday"
+    #     href: tidytuesday.html
+    #   - text: "Maps"
+    #     href: maps.html
     - text: "Software"
       href: rpackages.html
     - text: "About"

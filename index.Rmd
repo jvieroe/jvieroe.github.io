@@ -24,7 +24,7 @@ If you'd like to learn more about what me, what I do, and what I'm working on, c
 
 * My [profile](about.html). Here you can read more about me and my background
 
-* My [gallery](tidytuesday.html), where I showcase most of my data visualizations
+* My [gallery](gallery.html), where I showcase my recent data visualizations
 
 * The [<i class="fab fa-r-project"></i> packages](rpackages.html) that I have developed
 
