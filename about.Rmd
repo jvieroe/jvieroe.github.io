@@ -124,6 +124,8 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 * Data Visualization
 
+* Football (soccer) and football analytics
+
 * <i class="fab fa-r-project"></i> programming
 
 * Geospatial data analysis and maps
@@ -147,7 +149,7 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 <br>
 
-### Skills
+### Programming languages/software
 
 
 
