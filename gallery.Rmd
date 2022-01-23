@@ -20,52 +20,55 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse scelerisque
 
 * [Maps]
 
-* [Football DataViz]
+* [Football Analytics]
 
 * [Politics]
 
 
-# #TidyTuesday
+## #TidyTuesday
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse scelerisque dolor at mauris tincidunt aliquet. Suspendisse imperdiet sodales ipsum eu laoreet. Nulla orci lectus, gravida at pellentesque eu, accumsan vel ante. Mauris eleifend felis sed gravida tempor. Etiam convallis metus eget purus vulputate, non varius odio sollicitudin. Cras nec magna quis mauris aliquam semper. In non risus sed nisi lacinia rutrum.
 
-## 2022
+### 2022
 
-### Week 1: Bring Your Own Data
+#### Week 1: Bring Your Own Data
 
 <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/code_ming.R"> Code</a> • <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png"> Download </a>
 
-<img src="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png?raw=true" alt="" width="750">
+<img src="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png?raw=true" alt="" width="100">
 
 
-### Week 2: Bee Colony losses
+#### Week 2: Bee Colony losses
 
 <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_02/code_bees.R"> Code</a> • <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_02/bees.png"> Download </a>
 
-<img src="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_02/bees.png?raw=true" alt="" width="750">
+<img src="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_02/bees.png?raw=true" alt="" width="100">
 
 
 
-# Maps
+## Maps
 
 Donec fermentum vulputate enim vitae lacinia. Proin malesuada quis felis sed ornare. Suspendisse scelerisque, ipsum eu efficitur semper, lorem libero volutpat leo, quis condimentum lorem neque a mi. Pellentesque felis risus, vulputate at urna non, facilisis hendrerit ante.  Vivamus felis felis, interdum eu scelerisque eu, consequat cursus sapien. Nam pulvinar suscipit leo sit amet efficitur. Mauris eget malesuada neque. Phasellus sit amet leo nibh.
 
 
-### Humble origins
+#### Humble origins
 
 <a href="https://github.com/jvieroe/dataviz/blob/main/2021/b-town/code_b-town.R"> Code</a> • <a href="https://github.com/jvieroe/dataviz/blob/main/2021/b-town/plot.png"> Download </a>
 
 
-<img src="https://github.com/jvieroe/dataviz/blob/main/2021/b-town/plot.png?raw=true" alt="" width="750">
+<img src="https://github.com/jvieroe/dataviz/blob/main/2021/b-town/plot.png?raw=true" alt="" width="100">
+
+```{r, echo=FALSE, out.width="25%", fig.cap="A nice image."}
+knitr::include_graphics("https://github.com/jvieroe/dataviz/blob/main/2021/b-town/plot.png?raw=true")
+```
 
 
-
-# Football DataViz
+## Football Analytics
 
 Donec fermentum vulputate enim vitae lacinia. Proin malesuada quis felis sed ornare. Suspendisse scelerisque, ipsum eu efficitur semper, lorem libero volutpat leo, quis condimentum lorem neque a mi. Pellentesque felis risus, vulputate at urna non, facilisis hendrerit ante. Curabitur ac convallis odio. Nullam neque ante, finibus quis massa eu, sagittis auctor lorem. Nam volutpat sollicitudin pretium. Morbi eget dolor consectetur diam facilisis consequat. Praesent consequat dictum sapien id dapibus. Praesent dapibus pretium dictum. Nunc nec faucibus dui, vitae varius augue. Vivamus felis felis, interdum eu scelerisque eu, consequat cursus sapien. Nam pulvinar suscipit leo sit amet efficitur. Mauris eget malesuada neque. Phasellus sit amet leo nibh.
 
 
-# Politics
+## Politics
 
 Nulla orci lectus, gravida at pellentesque eu, accumsan vel ante. Mauris eleifend felis sed gravida tempor. Etiam convallis metus eget purus vulputate, non varius odio sollicitudin.
 
