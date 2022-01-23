@@ -35,7 +35,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse scelerisque
 
 <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/code_ming.R"> Code</a> • <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png"> Download </a>
 
-![#TidyTuesday | 2022 | Week 1: Bring Your Own Data](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png?raw=true){width=75%}
+[![#TidyTuesday | 2022 | Week 1: Bring Your Own Data](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png?raw=true){width=75%}](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png)
+
+
 
 
 #### Week 2: Bee Colony losses
