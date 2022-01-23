@@ -8,7 +8,7 @@ navbar:
   logo:
     image: logos/RStudio-Logo-White.png
     href: https://github.com/jvieroe/jvieroe.github.io
-  search: false
+  search: true
   right:
     - icon: fa fa-home
       href: index.html
