@@ -35,14 +35,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse scelerisque
 
 <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/code_ming.R"> Code</a> • <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png"> Download </a>
 
-<img src="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png?raw=true" alt="" width="100">
+![#TidyTuesday | 2022 | Week 1: Bring Your Own Data](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png?raw=true){width=75%}
 
 
 #### Week 2: Bee Colony losses
 
 <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_02/code_bees.R"> Code</a> • <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_02/bees.png"> Download </a>
 
-<img src="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_02/bees.png?raw=true" alt="" width="100">
+![#TidyTuesday | 2022 | Week 2: Bee Colony losses](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_02/bees.png?raw=true){width=75%}
 
 
 
@@ -55,13 +55,13 @@ Donec fermentum vulputate enim vitae lacinia. Proin malesuada quis felis sed orn
 
 <a href="https://github.com/jvieroe/dataviz/blob/main/2021/b-town/code_b-town.R"> Code</a> • <a href="https://github.com/jvieroe/dataviz/blob/main/2021/b-town/plot.png"> Download </a>
 
+<!-- <img src="https://github.com/jvieroe/dataviz/blob/main/2021/b-town/plot.png?raw=true" alt="" width="100"> -->
 
-<img src="https://github.com/jvieroe/dataviz/blob/main/2021/b-town/plot.png?raw=true" alt="" width="100">
+<!-- ```{r, echo=FALSE, out.width="25%", fig.cap="A nice image."} -->
+<!-- knitr::include_graphics("https://github.com/jvieroe/dataviz/blob/main/2021/b-town/plot.png?raw=true") -->
+<!-- ``` -->
 
-```{r, echo=FALSE, out.width="25%", fig.cap="A nice image."}
-knitr::include_graphics("https://github.com/jvieroe/dataviz/blob/main/2021/b-town/plot.png?raw=true")
-```
-
+![Humble Origins](https://github.com/jvieroe/dataviz/blob/main/2021/b-town/plot.png?raw=true){width=75%}
 
 ## Football Analytics
 

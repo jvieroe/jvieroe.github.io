@@ -6,63 +6,63 @@
       "description": "\\> Some additional details about the website",
       "author": [],
       "contents": "\n\nI’m a Social Data Scientist with a background in Political Science, applied quantitative methods, causal inference, and programming in .\nA former PhD student at the Department of Political Science (UCPH), I currently work as a consultant/analyst/data scientist for a private Danish consultancy firm.\nRecently, I’ve been focusing on spatial data analysis 🗺️, data visualization 📊, and sports analytics ⚽.\nHave a look at some of my various data visualizations 📊\n… and my  #TidyTuesday commits 📈\nI have also published (or am working on) a few  packages 📦\nYou can check out my resumé  here (download here)\n\nContact\n\n\n         \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfile\n\n\n\n.columnname {\n  font-size: 1.2rem; \n  font-weight: 500;\n}\n.grad-item {\n  list-style: none; \n  background-image: url(graduation-cap-solid.png); \n  background-repeat: no-repeat;  \n  background-size: 1.2rem; \n  padding-left: 2rem;\n}\n.grad-location {\n  font-size: 0.8rem;\n  color: grey;\n}\n\n\n\n Interests \nPolitics and Political Science\nData Visualization\nFootball (soccer) and football analytics\n programming\nGeospatial data analysis and maps\n\n\n Education \n\nMSc in Political Science, 2021 \nUniversity of Copenhagen, Denmark\n\n\n\nBSc in Political Science, 2017 \nUniversity of Copenhagen, Denmark\n\n\n\n\n\nProgramming languages/software\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2022-01-23T20:10:27+01:00"
+      "last_modified": "2022-01-23T20:18:29+01:00"
     },
     {
       "path": "blog.html",
       "title": "Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-01-23T20:10:28+01:00"
+      "last_modified": "2022-01-23T20:18:30+01:00"
     },
     {
       "path": "cv.html",
       "title": "CV",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-01-23T20:10:28+01:00"
+      "last_modified": "2022-01-23T20:18:30+01:00"
     },
     {
       "path": "gallery.html",
       "title": "Gallery",
       "author": [],
-      "contents": "\nIntro\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse scelerisque dolor at mauris tincidunt aliquet. Suspendisse imperdiet sodales ipsum eu laoreet. Nulla orci lectus, gravida at pellentesque eu, accumsan vel ante. Mauris eleifend felis sed gravida tempor. Etiam convallis metus eget purus vulputate, non varius odio sollicitudin. Cras nec magna quis mauris aliquam semper. In non risus sed nisi lacinia rutrum.\n\n\n#TidyTuesday\nMaps\nFootball Analytics\nPolitics\n#TidyTuesday\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse scelerisque dolor at mauris tincidunt aliquet. Suspendisse imperdiet sodales ipsum eu laoreet. Nulla orci lectus, gravida at pellentesque eu, accumsan vel ante. Mauris eleifend felis sed gravida tempor. Etiam convallis metus eget purus vulputate, non varius odio sollicitudin. Cras nec magna quis mauris aliquam semper. In non risus sed nisi lacinia rutrum.\n2022\nWeek 1: Bring Your Own Data\n Code •  Download \n\nWeek 2: Bee Colony losses\n Code •  Download \n\nMaps\nDonec fermentum vulputate enim vitae lacinia. Proin malesuada quis felis sed ornare. Suspendisse scelerisque, ipsum eu efficitur semper, lorem libero volutpat leo, quis condimentum lorem neque a mi. Pellentesque felis risus, vulputate at urna non, facilisis hendrerit ante. Vivamus felis felis, interdum eu scelerisque eu, consequat cursus sapien. Nam pulvinar suscipit leo sit amet efficitur. Mauris eget malesuada neque. Phasellus sit amet leo nibh.\nHumble origins\n Code •  Download \n\n\n\n\nFigure 1: A nice image.\n\n\n\nFootball Analytics\nDonec fermentum vulputate enim vitae lacinia. Proin malesuada quis felis sed ornare. Suspendisse scelerisque, ipsum eu efficitur semper, lorem libero volutpat leo, quis condimentum lorem neque a mi. Pellentesque felis risus, vulputate at urna non, facilisis hendrerit ante. Curabitur ac convallis odio. Nullam neque ante, finibus quis massa eu, sagittis auctor lorem. Nam volutpat sollicitudin pretium. Morbi eget dolor consectetur diam facilisis consequat. Praesent consequat dictum sapien id dapibus. Praesent dapibus pretium dictum. Nunc nec faucibus dui, vitae varius augue. Vivamus felis felis, interdum eu scelerisque eu, consequat cursus sapien. Nam pulvinar suscipit leo sit amet efficitur. Mauris eget malesuada neque. Phasellus sit amet leo nibh.\nPolitics\nNulla orci lectus, gravida at pellentesque eu, accumsan vel ante. Mauris eleifend felis sed gravida tempor. Etiam convallis metus eget purus vulputate, non varius odio sollicitudin.\n\n\n\n",
-      "last_modified": "2022-01-23T20:11:04+01:00"
+      "contents": "\nIntro\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse scelerisque dolor at mauris tincidunt aliquet. Suspendisse imperdiet sodales ipsum eu laoreet. Nulla orci lectus, gravida at pellentesque eu, accumsan vel ante. Mauris eleifend felis sed gravida tempor. Etiam convallis metus eget purus vulputate, non varius odio sollicitudin. Cras nec magna quis mauris aliquam semper. In non risus sed nisi lacinia rutrum.\n\n\n#TidyTuesday\nMaps\nFootball Analytics\nPolitics\n#TidyTuesday\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse scelerisque dolor at mauris tincidunt aliquet. Suspendisse imperdiet sodales ipsum eu laoreet. Nulla orci lectus, gravida at pellentesque eu, accumsan vel ante. Mauris eleifend felis sed gravida tempor. Etiam convallis metus eget purus vulputate, non varius odio sollicitudin. Cras nec magna quis mauris aliquam semper. In non risus sed nisi lacinia rutrum.\n2022\nWeek 1: Bring Your Own Data\n Code •  Download \n#TidyTuesday | 2022 | Week 1: Bring Your Own DataWeek 2: Bee Colony losses\n Code •  Download \n#TidyTuesday | 2022 | Week 2: Bee Colony lossesMaps\nDonec fermentum vulputate enim vitae lacinia. Proin malesuada quis felis sed ornare. Suspendisse scelerisque, ipsum eu efficitur semper, lorem libero volutpat leo, quis condimentum lorem neque a mi. Pellentesque felis risus, vulputate at urna non, facilisis hendrerit ante. Vivamus felis felis, interdum eu scelerisque eu, consequat cursus sapien. Nam pulvinar suscipit leo sit amet efficitur. Mauris eget malesuada neque. Phasellus sit amet leo nibh.\nHumble origins\n Code •  Download \n\n\n\n\nHumble OriginsFootball Analytics\nDonec fermentum vulputate enim vitae lacinia. Proin malesuada quis felis sed ornare. Suspendisse scelerisque, ipsum eu efficitur semper, lorem libero volutpat leo, quis condimentum lorem neque a mi. Pellentesque felis risus, vulputate at urna non, facilisis hendrerit ante. Curabitur ac convallis odio. Nullam neque ante, finibus quis massa eu, sagittis auctor lorem. Nam volutpat sollicitudin pretium. Morbi eget dolor consectetur diam facilisis consequat. Praesent consequat dictum sapien id dapibus. Praesent dapibus pretium dictum. Nunc nec faucibus dui, vitae varius augue. Vivamus felis felis, interdum eu scelerisque eu, consequat cursus sapien. Nam pulvinar suscipit leo sit amet efficitur. Mauris eget malesuada neque. Phasellus sit amet leo nibh.\nPolitics\nNulla orci lectus, gravida at pellentesque eu, accumsan vel ante. Mauris eleifend felis sed gravida tempor. Etiam convallis metus eget purus vulputate, non varius odio sollicitudin.\n\n\n\n",
+      "last_modified": "2022-01-23T20:18:31+01:00"
     },
     {
       "path": "index.html",
       "title": "Jeppe Vierø",
       "author": [],
       "contents": "\n\n          \n          \n          \n          \n          jvieroe\n          \n          \n          \n          \n          \n          Blog\n          Gallery\n          Software\n          About\n          \n          \n          \n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Jeppe Vierø\n            \n            \n              \n                \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Email\n                      \n                    \n                  \n                                    \n                    \n                      \n                         LinkedIn\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Hi!\n            I’m a Social Data Scientist with a background in Political Science, applied quantitative methods, and causal inference.\n            Today, I’m mostly into spatial data analysis, data visualization, football analytics, and programming in .\n            If you’d like to learn more about me, what I do, and what I’m working on, check out:\n            My profile. Here you can read more about me and my background\n            My gallery, where I showcase my recent data visualizations\n            The  packages that I have developed\n            My blog, where I occasionally post tutorials etc.\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Jeppe Vierø\n            \n            \n              \n                \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Email\n                    \n                  \n                                    \n                    \n                       LinkedIn\n                    \n                  \n                                  \n              \n            \n            \n              \n              Hi!\n              I’m a Social Data Scientist with a background in Political Science, applied quantitative methods, and causal inference.\n              Today, I’m mostly into spatial data analysis, data visualization, football analytics, and programming in .\n              If you’d like to learn more about me, what I do, and what I’m working on, check out:\n              My profile. Here you can read more about me and my background\n              My gallery, where I showcase my recent data visualizations\n              The  packages that I have developed\n              My blog, where I occasionally post tutorials etc.\n              \n            \n        \n      \n    \n\n    \n    \n    \n      © 2022. Site created in   using the {distill} and {postcards} packages\n      \n      \n\n  \n  ",
-      "last_modified": "2022-01-23T20:10:29+01:00"
+      "last_modified": "2022-01-23T20:18:31+01:00"
     },
     {
       "path": "maps.html",
       "title": "Maps",
       "author": [],
       "contents": "\n… tt\n\n\n\n",
-      "last_modified": "2022-01-23T20:10:29+01:00"
+      "last_modified": "2022-01-23T20:18:31+01:00"
     },
     {
       "path": "projects.html",
       "title": "Projects",
       "author": [],
       "contents": "\nR Markdown\nThis is where I will list my cool projects!\n\n\n\n",
-      "last_modified": "2022-01-23T20:10:29+01:00"
+      "last_modified": "2022-01-23T20:18:32+01:00"
     },
     {
       "path": "rpackages.html",
       "title": "R packages",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-01-23T20:10:30+01:00"
+      "last_modified": "2022-01-23T20:18:32+01:00"
     },
     {
       "path": "tidytuesday.html",
       "title": "TidyTuesday",
       "author": [],
       "contents": "\n… tt\n\n\n\n",
-      "last_modified": "2022-01-23T20:10:30+01:00"
+      "last_modified": "2022-01-23T20:18:32+01:00"
     }
   ],
   "collections": ["posts/posts.json"]
