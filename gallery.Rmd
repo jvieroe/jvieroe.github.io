@@ -1,5 +1,7 @@
 ---
 title: "Gallery"
+description: |
+  \> Below I showcase a selection of my recent data visualizations. All of these are coded in the programming language <i class="fab fa-r-project"></i> using the `ggplot2` package.
 output: distill::distill_article
 ---
   
@@ -7,14 +9,10 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Intro
-
-Below I showcase a selection of my recent data visualizations. All of these are coded in the programming language <i class="fab fa-r-project"></i> using the `ggplot2` package.
-
-
 <!-- * [xxx](#tidytuesday) -->
 <!-- # TidyTuesday -->
 
+***Categories***
 
 * [#TidyTuesday contributions]
 

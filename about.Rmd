@@ -2,6 +2,7 @@
 title: "Who am I?"
 description: |
   \> Some additional details about the website
+output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
