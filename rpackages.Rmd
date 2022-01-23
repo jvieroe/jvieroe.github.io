@@ -1,5 +1,7 @@
 ---
 title: "R packages"
+description: |
+  \> Intro text
 output: distill::distill_article
 ---
 

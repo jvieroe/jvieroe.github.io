@@ -1,7 +1,7 @@
 ---
 title: "Who am I?"
 description: |
-  \> Some additional details about the website
+  \> Here you can read more about me and have a look at (some of) the stuff that I do
 output: distill::distill_article
 ---
 
