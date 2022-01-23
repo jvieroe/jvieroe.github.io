@@ -18,9 +18,8 @@ A former PhD student at the <a href="https://politicalscience.ku.dk" target="_bl
 Recently, I've been focusing on spatial data analysis 🗺️, data visualization &#128202;, and sports analytics &#9917;.
 
 
-* Have a look at some of my <a href="https://github.com/jvieroe/dataviz" target="_blank">various data visualizations</a> &#128202; 
-* ... and my <a href="https://github.com/jvieroe/TidyTuesday" target="_blank"> #TidyTuesday commits</a> &#128200; 
-* I have also published (or am working on) a few <i class="fab fa-r-project"></i> <a href=rpackages.html target="_blank">packages</a> &#128230;
+* Have a look at some of my <a href=gallery.html>gallery</a> of data visualizations &#128202;, including my <a href="https://github.com/rfordatascience/tidytuesday" target="_blank"> #TidyTuesday</a> commits &#128200; 
+* I have also published (or am working on) a few <i class="fab fa-r-project"></i> <a href=rpackages.html>packages</a> &#128230;
 * You can check out my resumé <a href="https://github.com/jvieroe/CV/blob/main/CV_JeppeVieroe.pdf" target="_blank"> here</a> (download [here](https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf))
 
 <br>
