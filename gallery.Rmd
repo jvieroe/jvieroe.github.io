@@ -51,6 +51,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse scelerisque
 
 Donec fermentum vulputate enim vitae lacinia. Proin malesuada quis felis sed ornare. Suspendisse scelerisque, ipsum eu efficitur semper, lorem libero volutpat leo, quis condimentum lorem neque a mi. Pellentesque felis risus, vulputate at urna non, facilisis hendrerit ante.  Vivamus felis felis, interdum eu scelerisque eu, consequat cursus sapien. Nam pulvinar suscipit leo sit amet efficitur. Mauris eget malesuada neque. Phasellus sit amet leo nibh.
 
+#### The Black Death on the British Isles
+
+<a href="https://github.com/jvieroe/dataviz/blob/main/2021/plague_british/code_plague_british.R"> Code</a> • <a href="https://github.com/jvieroe/dataviz/blob/main/2021/plague_british/plot.png"> Download </a>
+
+![Humble Origins](https://github.com/jvieroe/dataviz/blob/main/2021/plague_british/plot.png?raw=true){width=85%}
+
 
 #### Humble origins
 
@@ -67,6 +73,8 @@ Donec fermentum vulputate enim vitae lacinia. Proin malesuada quis felis sed orn
 ## Football Analytics
 
 Donec fermentum vulputate enim vitae lacinia. Proin malesuada quis felis sed ornare. Suspendisse scelerisque, ipsum eu efficitur semper, lorem libero volutpat leo, quis condimentum lorem neque a mi. Pellentesque felis risus, vulputate at urna non, facilisis hendrerit ante. Curabitur ac convallis odio. Nullam neque ante, finibus quis massa eu, sagittis auctor lorem. Nam volutpat sollicitudin pretium. Morbi eget dolor consectetur diam facilisis consequat. Praesent consequat dictum sapien id dapibus. Praesent dapibus pretium dictum. Nunc nec faucibus dui, vitae varius augue. Vivamus felis felis, interdum eu scelerisque eu, consequat cursus sapien. Nam pulvinar suscipit leo sit amet efficitur. Mauris eget malesuada neque. Phasellus sit amet leo nibh.
+
+#### 
 
 
 ## Politics
