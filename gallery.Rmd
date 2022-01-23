@@ -72,9 +72,22 @@ Donec fermentum vulputate enim vitae lacinia. Proin malesuada quis felis sed orn
 
 ## Football Analytics
 
-Donec fermentum vulputate enim vitae lacinia. Proin malesuada quis felis sed ornare. Suspendisse scelerisque, ipsum eu efficitur semper, lorem libero volutpat leo, quis condimentum lorem neque a mi. Pellentesque felis risus, vulputate at urna non, facilisis hendrerit ante. Curabitur ac convallis odio. Nullam neque ante, finibus quis massa eu, sagittis auctor lorem. Nam volutpat sollicitudin pretium. Morbi eget dolor consectetur diam facilisis consequat. Praesent consequat dictum sapien id dapibus. Praesent dapibus pretium dictum. Nunc nec faucibus dui, vitae varius augue. Vivamus felis felis, interdum eu scelerisque eu, consequat cursus sapien. Nam pulvinar suscipit leo sit amet efficitur. Mauris eget malesuada neque. Phasellus sit amet leo nibh.
+Donec fermentum vulputate enim vitae lacinia. Proin malesuada quis felis sed ornare. Suspendisse scelerisque, ipsum eu efficitur semper, lorem libero volutpat leo, quis condimentum lorem neque a mi.
 
-#### 
+#### LaLiga domination by Messi and Ronaldo
+
+<a href="https://github.com/jvieroe/dataviz/blob/main/2021/messi_ronaldo/code_messi_ronaldo.R"> Code</a> • <a href="https://github.com/jvieroe/dataviz/blob/main/2021/messi_ronaldo/plot.png"> Download </a>
+
+![LaLiga domination by Messi and Ronaldo](https://github.com/jvieroe/dataviz/blob/main/2021/messi_ronaldo/plot.png?raw=true){width=85%}
+
+
+#### Cumulative Points in the Danish Superliga 2021/22
+
+<a href="https://github.com/jvieroe/dataviz/blob/main/2021/superliga/code_superliga.R"> Code</a> • <a href="https://github.com/jvieroe/dataviz/blob/main/2021/superliga/plot.png"> Download </a>
+
+![Cumulative Points in the Danish Superliga 2021/22](https://github.com/jvieroe/dataviz/blob/main/2021/superliga/plot.png?raw=true){width=85%}
+
+
 
 
 ## Politics
