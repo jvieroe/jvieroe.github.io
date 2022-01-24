@@ -6,6 +6,30 @@ output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
+<!-- Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis. -->
+
+<!-- Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis. -->
+
+<!-- ::: {.floatting} -->
+
+<!-- ```{r out.width='30%', out.extra='style="float:right; padding:10px"'} -->
+<!-- knitr::include_graphics("jvieroe.png") -->
+<!-- ``` -->
+
+<!-- Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis. -->
+<!-- ::: -->
+
+## dyadicdist
+
+::: {.floatting}
+
+```{r out.width='30%', out.extra='style="float:left; padding:50px"'}
+knitr::include_graphics("jvieroe.png")
+```
+
+Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis. Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis.
+:::
