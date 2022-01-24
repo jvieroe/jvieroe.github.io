@@ -23,15 +23,19 @@ knitr::opts_chunk$set(echo = FALSE)
 <!-- Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis. -->
 <!-- ::: -->
 
-## dyadicdist
+## dyadicdist 
 
 ::: {.floatting}
 
-```{r out.width='25%', out.extra='style="float:left; padding-left:10px; padding-right:50px"'}
+```{r out.width='25%', out.extra='style="float:left; padding-left:5px; padding-right:40px"'}
 knitr::include_graphics("images/rpkgs/dyadicdist.png")
 ```
 
-Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis. Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis.
+* *Released* <i class="fa fa-check"></i> 
+
+* Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis.
+
+* Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. 
 
 [![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![License: GPL (>=
@@ -42,3 +46,36 @@ Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. Aliquam molestie 
 coverage](https://codecov.io/gh/jvieroe/dyadicdist/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jvieroe/dyadicdist?branch=main)
 
 :::
+
+
+## ricardo 
+
+::: {.floatting}
+
+```{r out.width='25%', out.extra='style="float:left; padding-left:5px; padding-right:40px"'}
+knitr::include_graphics("images/rpkgs/ricardo.png")
+```
+
+* **In pogress** <i class="fa fa-spinner"></i> 
+
+* Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis.
+
+* Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. 
+
+[![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![License: GPL (>=
+3)](https://img.shields.io/badge/license-GPL%20(%3E=%203)-blue.svg)](https://cran.r-project.org/web/licenses/GPL%20(%3E=%203))
+[![](https://img.shields.io/badge/devel%20version-0.3.1-dodgerblue.svg)](https://github.com/jvieroe/dyadicdist)
+[![R-CMD-check](https://github.com/jvieroe/dyadicdist/workflows/R-CMD-check/badge.svg)](https://github.com/jvieroe/dyadicdist/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/jvieroe/dyadicdist/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jvieroe/dyadicdist?branch=main)
+
+:::
+
+
+
+<ul class="fa-ul">
+  <i class="fa-li fa fa-check-square"></i></i>can be used</li>
+  <li><i class="fa-li fa fa-check-square"></i>can be used</li>
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>to replace</li>
+</ul>
