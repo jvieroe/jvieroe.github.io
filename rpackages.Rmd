@@ -32,4 +32,13 @@ knitr::include_graphics("images/rpkgs/dyadicdist.png")
 ```
 
 Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis. Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis.
+
+[![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![License: GPL (>=
+3)](https://img.shields.io/badge/license-GPL%20(%3E=%203)-blue.svg)](https://cran.r-project.org/web/licenses/GPL%20(%3E=%203))
+[![](https://img.shields.io/badge/devel%20version-0.3.1-dodgerblue.svg)](https://github.com/jvieroe/dyadicdist)
+[![R-CMD-check](https://github.com/jvieroe/dyadicdist/workflows/R-CMD-check/badge.svg)](https://github.com/jvieroe/dyadicdist/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/jvieroe/dyadicdist/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jvieroe/dyadicdist?branch=main)
+
 :::
