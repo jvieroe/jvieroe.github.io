@@ -27,8 +27,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ::: {.floatting}
 
-```{r out.width='30%', out.extra='style="float:left; padding:50px"'}
-knitr::include_graphics("jvieroe.png")
+```{r out.width='25%', out.extra='style="float:left; padding-left:10px; padding-right:50px"'}
+knitr::include_graphics("images/rpkgs/dyadicdist.png")
 ```
 
 Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis. Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis.
