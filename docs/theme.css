@@ -93,3 +93,15 @@ d-appendix {
     border-color: #333333;
     color: white;
 }
+
+
+
+/* --------- Preview settings in blog ------*/
+
+.posts-list .post-preview .thumbnail img {
+  max-width: 60%;
+  max-height: 60%;
+  display: block;
+  margin: 0 auto;
+  vertical-align: middle;
+}
