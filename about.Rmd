@@ -98,7 +98,7 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 <!-- </div> -->
 
 
-### Profile
+## Profile
 
 <br>
 
@@ -155,7 +155,7 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 <br>
 
-### Programming languages/software
+## Programming languages/software
 
 
 
@@ -185,7 +185,41 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
   <li></li>
 </ul>
 :::
+::::
 
+
+<br>
+
+## Skills
+
+
+
+:::: {style="display: grid; grid-template-columns: 30% 30% 30%; grid-column-gap: 20px; line-height: 1.5rem;"}
+
+::: {}
+<ul class="fa-ul">
+  <li> Data wrangling </li>
+  <li> Data visualization </li>
+  <li> Statistical modeling </li>
+</ul>
+:::
+
+::: {}
+<ul class="fa-ul">
+  <li> Causal inference </li>
+  <li> Econometrics </li>
+  <li> Spatial data analysis </li>
+</ul>
+:::
+
+
+::: {}
+<ul class="fa-ul">
+  <li> Data Science </li>
+  <li> Package development </li>
+  <li> Functional programming </li>
+</ul>
+:::
 
 ::::
 
