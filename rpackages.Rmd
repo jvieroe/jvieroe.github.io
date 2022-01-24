@@ -43,6 +43,66 @@ coverage](https://codecov.io/gh/jvieroe/dyadicdist/branch/main/graph/badge.svg)]
 
 <br>
 
+
+## ricardo 
+
+:::: {style="display: grid; grid-template-columns: 20% 80%; grid-column-gap: 5px; line-height: 1.5rem;"}
+
+::: {}
+```{r out.width='85%', out.extra='style="float:left; padding-left:5px; padding-right:5px"'}
+knitr::include_graphics("images/rpkgs/ricardo.png")
+```
+:::
+
+::: {}
+
+* *In progress* &ensp; <i class="fa fa-spinner fa-spin"></i> 
+
+* `ricardo` provides access to data on historical football matches from <a href="https://www.football-data.co.uk/data.php" target="_blank">Football-Data.co-uk</a>
+
+
+
+[![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![](https://img.shields.io/badge/devel%20version-0.1.0-dodgerblue.svg)](https://github.com/https://github.com/jvieroe/ricardo)
+[![R-CMD-check](https://github.com/jvieroe/ricardo/workflows/R-CMD-check/badge.svg)](https://github.com/jvieroe/ricardo/actions)
+
+
+:::
+
+::::
+
+<br>
+
+## voters 
+
+:::: {style="display: grid; grid-template-columns: 20% 80%; grid-column-gap: 5px; line-height: 1.5rem;"}
+
+::: {}
+:::
+
+::: {}
+
+* **Released** &ensp; <i class="fa fa-check"></i> 
+
+* Use `voters` to get (spatial) data on Danish polling stations from <a href="https://dawadocs.dataforsyningen.dk" target="_blank">Danmarks Adressers Web API (DAWA)</a>
+* The provided `id` variable allows you to link the individual polling stations to election data from the <a href="https://valgdatabase.dst.dk/?lang=en" target="_blank">Danish Election Database</a>
+
+
+
+
+
+[![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![](https://img.shields.io/badge/devel%20version-0.1.0-dodgerblue.svg)](https://github.com/https://github.com/jvieroe/ricardo)
+[![R-CMD-check](https://github.com/jvieroe/ricardo/workflows/R-CMD-check/badge.svg)](https://github.com/jvieroe/ricardo/actions)
+
+
+:::
+
+::::
+
+<br>
+
+
 <!-- ## dyadicdist -->
 
 <!-- ::: {.floatting} -->
@@ -71,59 +131,3 @@ coverage](https://codecov.io/gh/jvieroe/dyadicdist/branch/main/graph/badge.svg)]
 
 <!-- <br> -->
 
-## ricardo 
-
-::: {.floatting}
-
-```{r out.width='25%', out.extra='style="float:left; padding-left:5px; padding-right:40px"'}
-knitr::include_graphics("images/rpkgs/ricardo.png")
-```
-
-* *In progress* &ensp; <i class="fa fa-spinner fa-spin"></i> 
-
-* Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis.
-
-* Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. 
-
-:::
-
-<br>
-
-## voters 
-
-<!-- ::: {.floatting} -->
-
-<!-- ```{r out.width='25%', out.extra='style="float:left; padding-left:5px; padding-right:40px"'} -->
-<!-- knitr::include_graphics("images/rpkgs/voters.png") -->
-<!-- ``` -->
-
-* **Released** &ensp; <i class="fa fa-check"></i> 
-
-* Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis.
-
-* Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. 
-
-
-<!-- ::: -->
-
-<br>
-
-
-## claudius 
-
-<!-- ::: {.floatting} -->
-
-<!-- ```{r out.width='25%', out.extra='style="float:left; padding-left:5px; padding-right:40px"'} -->
-<!-- knitr::include_graphics("images/rpkgs/voters.png") -->
-<!-- ``` -->
-
-* *In progress* &ensp; <i class="fa fa-spinner fa-spin"></i> 
-
-* Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis.
-
-* Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. 
-
-
-<!-- ::: -->
-
-<br>
