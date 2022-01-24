@@ -2,10 +2,13 @@
 title: "Welcome"
 description: |
   A trial blog post!
+categories:
+  - distill
+  - welcome
 preview: distill.png
 author:
   - name: Jeppe Vierø
-date: 2022-01-16
+date: 2022-01-24
 output:
   distill::distill_article:
     self_contained: false
