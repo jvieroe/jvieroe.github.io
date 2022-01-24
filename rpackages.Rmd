@@ -120,9 +120,13 @@ knitr::include_graphics("images/rpkgs/ricardo.png")
 
 <br>
 
+
 ## Internal packages
 
-XX
+Beyond the packages listed above, I have developed the following packages that provide unified corporate visual identities for `ggplot2` objects:
+
+* <a href="https://github.com/jvieroe/repinion" target="_blank">repinion</a>
+* <a href="https://github.com/jvieroe/epinionDSB" target="_blank">epinionDSB</a>
 
 
 <!-- ## dyadicdist -->
