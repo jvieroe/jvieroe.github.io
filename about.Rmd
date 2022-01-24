@@ -158,7 +158,7 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 
 
-:::: {style="display: grid; grid-template-columns: 33% 33% 33%; grid-column-gap: 10px; line-height: 1.5rem;"}
+:::: {style="display: grid; grid-template-columns: 30% 30% 30%; grid-column-gap: 10px; line-height: 1.5rem;"}
 
 ::: {}
 <ul class="fa-ul">
@@ -193,7 +193,7 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 
 
-:::: {style="display: grid; grid-template-columns: 33% 33% 33%; grid-column-gap: 10px; line-height: 1.5rem;"}
+:::: {style="display: grid; grid-template-columns: 30% 30% 30%; grid-column-gap: 10px; line-height: 1.5rem;"}
 
 ::: {}
 <ul class="fa-ul">
@@ -224,7 +224,7 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 <br>
 
-:::: {style="display: grid; grid-template-columns: 33% 33% 33%; grid-column-gap: 10px; line-height: 1.5rem;"}
+:::: {style="display: grid; grid-template-columns: 30% 30% 30%; grid-column-gap: 10px; line-height: 1.5rem;"}
 
 ::: {}
 <ul class="fa-ul">
