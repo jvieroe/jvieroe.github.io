@@ -10,36 +10,28 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-<!-- Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis. -->
-
-<!-- Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis. -->
-
-<!-- ::: {.floatting} -->
-
-<!-- ```{r out.width='30%', out.extra='style="float:right; padding:10px"'} -->
-<!-- knitr::include_graphics("jvieroe.png") -->
-<!-- ``` -->
-
-<!-- Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis. -->
-<!-- ::: -->
 
 ## dyadicdist 
 
-::: {.floatting}
+:::: {style="display: grid; grid-template-columns: 20% 80%; grid-column-gap: 5px; line-height: 1.5rem;"}
 
-```{r out.width='25%', out.extra='style="float:left; padding-left:5px; padding-right:40px"'}
+::: {}
+```{r out.width='85%', out.extra='style="float:left; padding-left:5px; padding-right:5px"'}
 knitr::include_graphics("images/rpkgs/dyadicdist.png")
 ```
+:::
+
+::: {}
 
 * **Released** &ensp; <i class="fa fa-check"></i> 
 
-* Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis.
+* The purpose of `dyadicdist` is to provide quick and easy calculation of dyadic distances between geo-referenced points
 
-* Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. 
+* The main contribution of `dyadicdist` is that the output is stored as a long, dyadic tibble as opposed to a wide matrix
+
+* Accepts single and dual data inputs
 
 [![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
-[![License: GPL (>=
-3)](https://img.shields.io/badge/license-GPL%20(%3E=%203)-blue.svg)](https://cran.r-project.org/web/licenses/GPL%20(%3E=%203))
 [![](https://img.shields.io/badge/devel%20version-0.3.1-dodgerblue.svg)](https://github.com/jvieroe/dyadicdist)
 [![R-CMD-check](https://github.com/jvieroe/dyadicdist/workflows/R-CMD-check/badge.svg)](https://github.com/jvieroe/dyadicdist/actions)
 [![Codecov test
@@ -47,7 +39,37 @@ coverage](https://codecov.io/gh/jvieroe/dyadicdist/branch/main/graph/badge.svg)]
 
 :::
 
+::::
+
 <br>
+
+<!-- ## dyadicdist -->
+
+<!-- ::: {.floatting} -->
+
+<!-- ```{r out.width='25%', out.extra='style="float:left; padding-left:5px; padding-right:40px"'} -->
+<!-- knitr::include_graphics("images/rpkgs/dyadicdist.png") -->
+<!-- ``` -->
+
+<!-- * **Released** &ensp; <i class="fa fa-check"></i> -->
+
+<!-- * The purpose of `dyadicdist` is to provide quick and easy calculation of dyadic distances between geo-referenced points -->
+
+<!-- * The main contribution of `dyadicdist` is that the output is stored as a long, dyadic tibble as opposed to a wide matrix -->
+
+<!-- * Accepts single and dual data inputs -->
+
+<!-- [![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental) -->
+<!-- [![License: GPL (>= -->
+<!-- 3)](https://img.shields.io/badge/license-GPL%20(%3E=%203)-blue.svg)](https://cran.r-project.org/web/licenses/GPL%20(%3E=%203)) -->
+<!-- [![](https://img.shields.io/badge/devel%20version-0.3.1-dodgerblue.svg)](https://github.com/jvieroe/dyadicdist) -->
+<!-- [![R-CMD-check](https://github.com/jvieroe/dyadicdist/workflows/R-CMD-check/badge.svg)](https://github.com/jvieroe/dyadicdist/actions) -->
+<!-- [![Codecov test -->
+<!-- coverage](https://codecov.io/gh/jvieroe/dyadicdist/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jvieroe/dyadicdist?branch=main) -->
+
+<!-- ::: -->
+
+<!-- <br> -->
 
 ## ricardo 
 
@@ -86,3 +108,22 @@ knitr::include_graphics("images/rpkgs/ricardo.png")
 
 <br>
 
+
+## claudius 
+
+<!-- ::: {.floatting} -->
+
+<!-- ```{r out.width='25%', out.extra='style="float:left; padding-left:5px; padding-right:40px"'} -->
+<!-- knitr::include_graphics("images/rpkgs/voters.png") -->
+<!-- ``` -->
+
+* *In progress* &ensp; <i class="fa fa-spinner fa-spin"></i> 
+
+* Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis.
+
+* Vivamus venenatis egestas eros ut tempus. Vivamus id est nisi. 
+
+
+<!-- ::: -->
+
+<br>
