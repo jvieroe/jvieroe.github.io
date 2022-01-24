@@ -1,17 +1,20 @@
 ---
 title: "Welcome"
 description: |
-  A trial blog post!
+  A trial blog post: Take-off!
 categories:
   - distill
   - welcome
-preview: distill.png
+preview: spacex-OHOU-5UVIYQ-unsplash.jpg
 author:
   - name: Jeppe Vierø
 date: 2022-01-24
 output:
   distill::distill_article:
     self_contained: false
+    code_folding: false
+    highlight: default
+    highlight_downlit: false
 ---
 
 
@@ -19,8 +22,20 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-My very first blog post. There is nothing of real interest here. This post only exists as a test of the `distill` package's blog features (and of my ability to use them).
+My very first blog post! There is nothing of real interest here. This post only exists as a test of the {distill} package's blog features as well as, more importantly, my ability to use them.
 
 As you were!
 
-![{distill}, an R package](distill.png){width=50%}
+## Take-off!
+![Photo by SpaceX on Unsplash](spacex-OHOU-5UVIYQ-unsplash.jpg){width=75%}
+
+<!-- ```{r, include=TRUE, echo=TRUE, message=FALSE, warning=FALSE} -->
+<!-- library(ggplot2) -->
+<!-- ggplot(mtcars, aes(x = wt, y = mpg)) + -->
+<!--   geom_point() + -->
+<!--   geom_smooth(method = "lm") -->
+
+<!-- ``` -->
+
+
+

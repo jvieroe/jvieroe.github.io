@@ -2,7 +2,7 @@
   {
     "path": "posts/2022-01-24-welcome/",
     "title": "Welcome",
-    "description": "A trial blog post!",
+    "description": "A trial blog post: Take-off!",
     "author": [
       {
         "name": "Jeppe Vierø",
@@ -14,9 +14,9 @@
       "distill",
       "welcome"
     ],
-    "contents": "\nMy very first blog post. There is nothing of real interest here. This post only exists as a test of the distill package’s blog features (and of my ability to use them).\nAs you were!\n{distill}, an R package\n\n\n",
-    "preview": "posts/2022-01-24-welcome/distill.png",
-    "last_modified": "2022-01-24T12:37:40+01:00",
+    "contents": "\nMy very first blog post! There is nothing of real interest here. This post only exists as a test of the {distill} package’s blog features as well as, more importantly, my ability to use them.\nAs you were!\nTake-off!\nPhoto by SpaceX on Unsplash",
+    "preview": "posts/2022-01-24-welcome/spacex-OHOU-5UVIYQ-unsplash.jpg",
+    "last_modified": "2022-01-24T19:59:41+01:00",
     "input_file": {}
   }
 ]

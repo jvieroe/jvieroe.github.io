@@ -105,3 +105,25 @@ d-appendix {
   margin: 0 auto;
   vertical-align: middle;
 }
+
+
+
+
+/* --------- Code chunks + code formatting ------*/
+
+/* code chunks */
+
+/* CODE FORMATTING */
+
+
+/* Highlight code in text but not in code chunk */
+p code, li code {
+    /*color: #eee;*/
+    font-size: 1.0em;
+    background: rgba(218, 218, 218, 0.4);
+    border-radius: 3px;
+    padding: 0 2px;
+    margin: 0 0px;
+    word-wrap: break-word;
+    letter-spacing: normal;
+}
