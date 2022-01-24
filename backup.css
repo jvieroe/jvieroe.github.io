@@ -10,7 +10,8 @@
 
 /* Optional: embed custom fonts here with `@import`          */
 /* This must remain at the top of this file.                 */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+
+
 
 html {
   /*-- Main font sizes --*/
@@ -29,7 +30,7 @@ html {
   --heading-font:    sans-serif;
   --mono-font:       monospace;
   --body-font:       sans-serif;
-  --navbar-font:     'Montserrat', sans-serif;  /* websites + blogs only */
+  --navbar-font:     sans-serif;  /* websites + blogs only */
 }
 
 /*-- ARTICLE METADATA --*/
@@ -62,15 +63,16 @@ d-appendix {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       #333333;
+  --bkgd-color:       #0F2E3D;
 }
 
 .distill-site-footer {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       #333333;
+  --bkgd-color:       #0F2E3D;
 }
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
+
