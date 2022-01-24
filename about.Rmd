@@ -245,6 +245,7 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 ::: {}
 <ul class="fa-ul">
   <li> Sociology </li>
+  <li> Methodology </li>
 </ul>
 :::
 
