@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## dyadicdist 
 
-:::: {style="display: grid; grid-template-columns: 20% 80%; grid-column-gap: 5px; line-height: 1.5rem;"}
+:::: {style="display: grid; grid-template-columns: 20% 80%; grid-column-gap: 10px; line-height: 1.5rem;"}
 
 ::: {}
 ```{r out.width='85%', out.extra='style="float:left; padding-left:5px; padding-right:5px"'}
@@ -46,7 +46,7 @@ coverage](https://codecov.io/gh/jvieroe/dyadicdist/branch/main/graph/badge.svg)]
 
 ## ricardo 
 
-:::: {style="display: grid; grid-template-columns: 20% 80%; grid-column-gap: 5px; line-height: 1.5rem;"}
+:::: {style="display: grid; grid-template-columns: 20% 80%; grid-column-gap: 10px; line-height: 1.5rem;"}
 
 ::: {}
 ```{r out.width='85%', out.extra='style="float:left; padding-left:5px; padding-right:5px"'}
@@ -75,7 +75,7 @@ knitr::include_graphics("images/rpkgs/ricardo.png")
 
 ## voters 
 
-:::: {style="display: grid; grid-template-columns: 20% 80%; grid-column-gap: 5px; line-height: 1.5rem;"}
+:::: {style="display: grid; grid-template-columns: 20% 80%; grid-column-gap: 10px; line-height: 1.5rem;"}
 
 ::: {}
 :::
@@ -100,7 +100,7 @@ knitr::include_graphics("images/rpkgs/ricardo.png")
 
 ## claudius 
 
-:::: {style="display: grid; grid-template-columns: 20% 80%; grid-column-gap: 5px; line-height: 1.5rem;"}
+:::: {style="display: grid; grid-template-columns: 20% 80%; grid-column-gap: 10px; line-height: 1.5rem;"}
 
 ::: {}
 :::
@@ -121,7 +121,7 @@ knitr::include_graphics("images/rpkgs/ricardo.png")
 <br>
 
 
-## Internal packages
+### Internal packages
 
 Beyond the packages listed above, I have developed the following packages that provide unified corporate visual identities for `ggplot2` objects:
 
