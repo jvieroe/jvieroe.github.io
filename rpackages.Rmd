@@ -47,6 +47,7 @@ coverage](https://codecov.io/gh/jvieroe/dyadicdist/branch/main/graph/badge.svg)]
 
 :::
 
+<br>
 
 ## ricardo 
 
@@ -56,7 +57,7 @@ coverage](https://codecov.io/gh/jvieroe/dyadicdist/branch/main/graph/badge.svg)]
 knitr::include_graphics("images/rpkgs/ricardo.png")
 ```
 
-* **In pogress** <i class="fa fa-spinner"></i> 
+* **In progress** <i class="fa fa-spinner fa-spin"></i> 
 
 * Aliquam molestie erat et sollicitudin venenatis. In ac lacus at velit scelerisque mattis.
 
