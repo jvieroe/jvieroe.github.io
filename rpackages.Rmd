@@ -87,13 +87,9 @@ knitr::include_graphics("images/rpkgs/ricardo.png")
 * Use `voters` to get (spatial) data on Danish polling stations from <a href="https://dawadocs.dataforsyningen.dk" target="_blank">Danmarks Adressers Web API (DAWA)</a>
 * The provided `id` variable allows you to link the individual polling stations to election data from the <a href="https://valgdatabase.dst.dk/?lang=en" target="_blank">Danish Election Database</a>
 
-
-
-
-
 [![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
-[![](https://img.shields.io/badge/devel%20version-0.1.0-dodgerblue.svg)](https://github.com/https://github.com/jvieroe/ricardo)
-[![R-CMD-check](https://github.com/jvieroe/ricardo/workflows/R-CMD-check/badge.svg)](https://github.com/jvieroe/ricardo/actions)
+[![R-CMD-check](https://github.com/jvieroe/voters/workflows/R-CMD-check/badge.svg)](https://github.com/jvieroe/voters/actions)
+
 
 
 :::
@@ -101,6 +97,32 @@ knitr::include_graphics("images/rpkgs/ricardo.png")
 ::::
 
 <br>
+
+## claudius 
+
+:::: {style="display: grid; grid-template-columns: 20% 80%; grid-column-gap: 5px; line-height: 1.5rem;"}
+
+::: {}
+:::
+
+::: {}
+
+* *In progress* &ensp; <i class="fa fa-spinner fa-spin"></i> 
+* `claudius` is inspired by the <a href="https://github.com/walkerke/tigris" target="_blank">`tigris`</a> package and serves as centralized source of spatial data on Danish political, administrative, and geographic units
+* `claudius` returns <a href="https://r-spatial.github.io/sf/" target="_blank">simple features objects</a>
+
+[![R-CMD-check](https://github.com/jvieroe/claudius/workflows/R-CMD-check/badge.svg)](https://github.com/jvieroe/claudius/actions)
+
+
+:::
+
+::::
+
+<br>
+
+## Internal packages
+
+XX
 
 
 <!-- ## dyadicdist -->
