@@ -1,6 +1,6 @@
 [
   {
-    "path": "posts/2022-01-15-welcome/",
+    "path": "posts/2022-01-24-welcome/",
     "title": "Welcome",
     "description": "A trial blog post!",
     "author": [
@@ -9,11 +9,14 @@
         "url": {}
       }
     ],
-    "date": "2022-01-16",
-    "categories": [],
-    "contents": "\nMy very first blog post!\n\n\n\n",
-    "preview": "posts/2022-01-15-welcome/distill.png",
-    "last_modified": "2022-01-15T20:49:59+01:00",
+    "date": "2022-01-24",
+    "categories": [
+      "distill",
+      "welcome"
+    ],
+    "contents": "\nMy very first blog post. There is nothing of real interest here. This post only exists as a test of the distill package’s blog features (and of my ability to use them).\nAs you were!\n{distill}, an R package\n\n\n",
+    "preview": "posts/2022-01-24-welcome/distill.png",
+    "last_modified": "2022-01-24T12:37:40+01:00",
     "input_file": {}
   }
 ]

@@ -19,7 +19,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-My very first blog post!
+My very first blog post. There is nothing of real interest here. This post only exists as a test of the `distill` package's blog features (and of my ability to use them).
 
+As you were!
 
-
+![{distill}, an R package](distill.png){width=50%}
