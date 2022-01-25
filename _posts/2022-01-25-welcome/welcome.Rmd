@@ -3,11 +3,13 @@ title: "Welcome"
 description: |
   A trial blog post: Take-off!
 categories:
+  - R
   - distill
   - welcome
 preview: spacex-OHOU-5UVIYQ-unsplash.jpg
 author:
   - name: Jeppe Vierø
+    url: jvieroe.github.io
 date: 2022-01-25
 output:
   distill::distill_article:
