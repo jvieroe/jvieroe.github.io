@@ -23,7 +23,7 @@ knitr::include_graphics("images/rpkgs/dyadicdist.png")
 
 ::: {}
 
-* **Released** &ensp; <i class="fa fa-check"></i> 
+* **Released** (version 0.3.1) &ensp; <i class="fa fa-check"></i> 
 
 * The purpose of `dyadicdist` is to provide quick and easy calculation of dyadic distances between geo-referenced points
 
@@ -36,6 +36,8 @@ knitr::include_graphics("images/rpkgs/dyadicdist.png")
 [![R-CMD-check](https://github.com/jvieroe/dyadicdist/workflows/R-CMD-check/badge.svg)](https://github.com/jvieroe/dyadicdist/actions)
 [![Codecov test
 coverage](https://codecov.io/gh/jvieroe/dyadicdist/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jvieroe/dyadicdist?branch=main)
+
+<a href="https://github.com/jvieroe/dyadicdist" target="_blank"><i class="fab fa-github"></i> View on GitHub</a>
 
 :::
 
@@ -61,11 +63,11 @@ knitr::include_graphics("images/rpkgs/ricardo.png")
 * `ricardo` provides access to data on historical football matches from <a href="https://www.football-data.co.uk/data.php" target="_blank">Football-Data.co-uk</a>
 
 
-
 [![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![](https://img.shields.io/badge/devel%20version-0.1.0-dodgerblue.svg)](https://github.com/https://github.com/jvieroe/ricardo)
 [![R-CMD-check](https://github.com/jvieroe/ricardo/workflows/R-CMD-check/badge.svg)](https://github.com/jvieroe/ricardo/actions)
 
+<a href="https://github.com/jvieroe/ricardo" target="_blank"><i class="fab fa-github"></i> View on GitHub</a>
 
 :::
 
@@ -90,7 +92,7 @@ knitr::include_graphics("images/rpkgs/ricardo.png")
 [![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![R-CMD-check](https://github.com/jvieroe/voters/workflows/R-CMD-check/badge.svg)](https://github.com/jvieroe/voters/actions)
 
-
+<a href="https://github.com/jvieroe/voters" target="_blank"><i class="fab fa-github"></i> View on GitHub</a>
 
 :::
 
@@ -113,6 +115,7 @@ knitr::include_graphics("images/rpkgs/ricardo.png")
 
 [![R-CMD-check](https://github.com/jvieroe/claudius/workflows/R-CMD-check/badge.svg)](https://github.com/jvieroe/claudius/actions)
 
+<a href="https://github.com/jvieroe/claudius" target="_blank"><i class="fab fa-github"></i> View on GitHub</a>
 
 :::
 
@@ -125,8 +128,9 @@ knitr::include_graphics("images/rpkgs/ricardo.png")
 
 Beyond the packages listed above, I have developed the following packages that provide unified corporate visual identities for `ggplot2` objects:
 
-* <a href="https://github.com/jvieroe/repinion" target="_blank">repinion</a>
-* <a href="https://github.com/jvieroe/epinionDSB" target="_blank">epinionDSB</a>
+
+* <a href="https://github.com/jvieroe/repinion" target="_blank"><i class="fab fa-github"></i> repinion</a>
+* <a href="https://github.com/jvieroe/epinionDSB" target="_blank"><i class="fab fa-github"></i> epinionDSB</a>
 
 
 <!-- ## dyadicdist -->
