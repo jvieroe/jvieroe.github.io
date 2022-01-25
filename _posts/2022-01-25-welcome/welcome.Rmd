@@ -3,7 +3,6 @@ title: "Welcome"
 description: |
   A trial blog post: Take-off!
 categories:
-  - R
   - distill
   - welcome
 preview: spacex-OHOU-5UVIYQ-unsplash.jpg

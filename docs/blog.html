@@ -2282,6 +2282,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
       color: #ffa213;
   }
 
+  .posts-list .dt-tag:hover {
+      border-color: #ffa213;
+      color: #ffa213;
+  }
+
+
   /*
   .dt-tag:hover {
       display: inline-block;
@@ -2699,7 +2705,7 @@ function init_posts_list() {
 <div class="posts-list">
 <h1 class="posts-list-caption" data-caption="Blog">Blog</h1>
 <a href="posts/2022-01-25-welcome/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":["R","distill","welcome"]}</script>
+<script class="post-metadata" type="text/json">{"categories":["distill","welcome"]}</script>
 <div class="metadata">
 <div class="publishedDate">Jan. 25, 2022</div>
 <div class="dt-authors">
@@ -2712,7 +2718,6 @@ function init_posts_list() {
 <div class="description">
 <h2>Welcome</h2>
 <div class="dt-tags">
-<div class="dt-tag">R</div>
 <div class="dt-tag">distill</div>
 <div class="dt-tag">welcome</div>
 </div>
@@ -2725,15 +2730,11 @@ function init_posts_list() {
 <h3>Categories</h3>
 <ul>
 <li>
-<a href="#category:Articles">Articles</a>
+<a href="#category:articles">articles</a>
 <span class="category-count">(1)</span>
 </li>
 <li>
 <a href="#category:distill">distill</a>
-<span class="category-count">(1)</span>
-</li>
-<li>
-<a href="#category:R">R</a>
 <span class="category-count">(1)</span>
 </li>
 <li>
