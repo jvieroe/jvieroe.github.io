@@ -9,14 +9,14 @@
         "url": {}
       }
     ],
-    "date": "2022-01-24",
+    "date": "2022-01-25",
     "categories": [
       "distill",
       "welcome"
     ],
     "contents": "\nMy very first blog post! There is nothing of real interest here. This post only exists as a test of the {distill} package’s blog features as well as, more importantly, my ability to use them.\nAs you were!\nTake-off!\nPhoto by SpaceX on Unsplash",
     "preview": "posts/2022-01-25-welcome/spacex-OHOU-5UVIYQ-unsplash.jpg",
-    "last_modified": "2022-01-25T09:51:39+01:00",
+    "last_modified": "2022-01-25T19:19:41+01:00",
     "input_file": {}
   }
 ]
