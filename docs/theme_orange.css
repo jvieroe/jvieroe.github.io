@@ -146,6 +146,8 @@ d-article a:hover {
 
 
 /* colour tags */
+
+/*
 .dt-tag {
     display: inline-block;
     color: #ffa213;
@@ -159,20 +161,28 @@ d-article a:hover {
     text-transform: uppercase;
     font-weight: 900;
 }
+*/
 
+.dt-tag:hover {
+    border-color: #ffa213;
+    color: #ffa213;
+}
+
+/*
 .dt-tag:hover {
     display: inline-block;
     color: #ffa213;
     padding: 0.3em 0.4em;
     margin-right: 0.2em;
     margin-bottom: 0.4em;
-    font-size: 12px;
+    font-size: 11px;
     border: 1px solid;
     background-color;
     border-radius: 3px;
     text-transform: uppercase;
     font-weight: 900;
 }
+*/
 
 /* colour tags
 .dt-tags .dt-tag {
