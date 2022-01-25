@@ -33,4 +33,7 @@ navbar:
       href: https://github.com/jvieroe
     - icon: fab fa-twitter
       href: https://twitter.com/jvieroe
-output: distill::distill_article
+output: 
+  distill::distill_article:
+    includes:
+      in_header: giscus.html
