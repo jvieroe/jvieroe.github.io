@@ -199,3 +199,9 @@ d-article a:hover {
     font-weight: 900;
 }
 */
+
+
+.mylinks a{
+  color: var(--main-text-color);
+
+}
