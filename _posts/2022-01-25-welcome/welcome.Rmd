@@ -10,6 +10,7 @@ preview: spacex-OHOU-5UVIYQ-unsplash.jpg
 author:
   - name: Jeppe Vierø
     url: jvieroe.github.io
+    baseurl:
 date: 2022-01-25
 output:
   distill::distill_article:
@@ -17,6 +18,7 @@ output:
     code_folding: false
     highlight: default
     highlight_downlit: false
+draft: false
 ---
 
 

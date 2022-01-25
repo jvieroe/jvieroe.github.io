@@ -2,6 +2,7 @@ name: "jvieroe.github.io"
 title: "jvieroe"
 description: |
   jvieroe.github.io
+base_url: jvieroe.github.io
 theme: theme_orange.css
 output_dir: "docs"
 navbar:

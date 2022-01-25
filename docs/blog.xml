@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>jvieroe</title>
+    <link>jvieroe.github.io</link>
+    <atom:link href="jvieroe.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+    <description>jvieroe.github.io
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome</title>
+      <dc:creator>Jeppe Vierø</dc:creator>
+      <link>jvieroe.github.io/posts/2022-01-25-welcome</link>
+      <description>A trial blog post: Take-off!</description>
+      <category>R</category>
+      <category>distill</category>
+      <category>welcome</category>
+      <guid>jvieroe.github.io/posts/2022-01-25-welcome</guid>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <media:content url="jvieroe.github.io/posts/2022-01-25-welcome/spacex-OHOU-5UVIYQ-unsplash.jpg" medium="image" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
