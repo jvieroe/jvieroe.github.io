@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## My very first blog post
 
-There is nothing of real interest here. This post only exists as a test of the {distill} package's blog features as well as, more importantly, my ability to use them.
+There is nothing of real interest here. This post only exists as a test of the <a href="https://distillery.rbind.io" target="_blank">{distill}</a> package's blog features as well as, more importantly, my ability to use them.
 
 As you were!
 
