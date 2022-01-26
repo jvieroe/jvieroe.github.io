@@ -84,13 +84,16 @@ knitr::include_graphics("images/rpkgs/ricardo.png")
 
 ::: {}
 
-* **Released** &ensp; <i class="fa fa-check"></i> 
+* **Released** (version 0.1.0) &ensp; <i class="fa fa-check"></i> 
 
 * Use `voters` to get (spatial) data on Danish polling stations from <a href="https://dawadocs.dataforsyningen.dk" target="_blank">Danmarks Adressers Web API (DAWA)</a>
 * The provided `id` variable allows you to link the individual polling stations to election data from the <a href="https://valgdatabase.dst.dk/?lang=en" target="_blank">Danish Election Database</a>
 
-[![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+[![](https://img.shields.io/badge/devel%20version-0.1.0-dodgerblue.svg)](https://github.com/https://github.com/jvieroe/voters)
 [![R-CMD-check](https://github.com/jvieroe/voters/workflows/R-CMD-check/badge.svg)](https://github.com/jvieroe/voters/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/jvieroe/voters/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jvieroe/voters?branch=main)
 
 <a href="https://github.com/jvieroe/voters" target="_blank"><i class="fab fa-github"></i> View on GitHub</a>
 
