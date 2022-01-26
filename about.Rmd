@@ -252,6 +252,11 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 
 
 
+<br>
+<br>
+
+
+
 
 <!-- <a href="https://twitter.com/Vieroe"> <img src="https://img.shields.io/badge/Twitter-1d9bf0?style=flat&logo=twitter&labelColor=1d9bf0&logoColor=white" /> </a> <a href="mailto:jvieroe@gmail.com"> <img src="https://img.shields.io/badge/Gmail-orange?style=flat&logo=gmail&labelColor=orange&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/jeppe-vier%C3%B8-028b4320b"> <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&labelColor=0a66c2" /> </a> <a href="https://github.com/jvieroe"> <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black&logoColor=white" />  </a> <a href="https://jvieroe.github.io"> <img src="https://img.shields.io/badge/jvieroe.github.io-teal?style=flat&logo=github&labelColor=teal&logoColor=white" /> </a> -->
 
