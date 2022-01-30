@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>jvieroe.github.io/about.html</loc>
-    <lastmod>2022-01-30T19:04:54+01:00</lastmod>
+    <lastmod>2022-01-30T19:10:25+01:00</lastmod>
   </url>
   <url>
     <loc>jvieroe.github.io/blog.html</loc>
-    <lastmod>2022-01-30T19:05:14+01:00</lastmod>
+    <lastmod>2022-01-30T19:10:46+01:00</lastmod>
   </url>
   <url>
     <loc>jvieroe.github.io/cv.html</loc>
@@ -14,11 +14,11 @@
   </url>
   <url>
     <loc>jvieroe.github.io/gallery.html</loc>
-    <lastmod>2022-01-30T19:05:10+01:00</lastmod>
+    <lastmod>2022-01-30T19:10:40+01:00</lastmod>
   </url>
   <url>
     <loc>jvieroe.github.io/</loc>
-    <lastmod>2022-01-30T19:05:05+01:00</lastmod>
+    <lastmod>2022-01-30T19:10:03+01:00</lastmod>
   </url>
   <url>
     <loc>jvieroe.github.io/maps.html</loc>
@@ -30,7 +30,7 @@
   </url>
   <url>
     <loc>jvieroe.github.io/rpackages.html</loc>
-    <lastmod>2022-01-30T19:04:59+01:00</lastmod>
+    <lastmod>2022-01-30T19:10:31+01:00</lastmod>
   </url>
   <url>
     <loc>jvieroe.github.io/tidytuesday.html</loc>

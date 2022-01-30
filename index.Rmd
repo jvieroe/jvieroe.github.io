@@ -22,7 +22,7 @@ library(metathis)
 meta() %>%
   meta_social(
     title = "jvieroe: Home",
-    description = "Code, Plots, and all things R",
+    description = "Code, Plots, and All Things R",
     url = "https://jvieroe.github.io",
     image = "https://raw.githubusercontent.com/jvieroe/jvieroe.github.io/main/images/sl_plot.png",
     image_alt = "Serial development",
