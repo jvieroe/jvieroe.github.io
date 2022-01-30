@@ -1,6 +1,6 @@
 ---
 title: "Jeppe Vierø"
-image: "jvieroe.png"
+image: "images/jvieroe.png"
 links:
   - label: '<i class="fab fa-twitter"></i> Twitter'
     url: "https://twitter.com/jvieroe"
