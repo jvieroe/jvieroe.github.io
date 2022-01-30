@@ -14,7 +14,7 @@ library(metathis)
 
 meta() %>%
   meta_social(
-    title = "JVieroe: R packages",
+    title = "jvieroe: R packages",
     description = "Code, Plots, and all things R",
     url = "https://jvieroe.github.io",
     image = "https://raw.githubusercontent.com/jvieroe/jvieroe.github.io/main/images/sl_plot.png",
