@@ -15,6 +15,23 @@ output:
 site: distill::distill_website
 ---
 
+```{r, include=FALSE, results='asis'}
+library(metathis)
+
+meta() %>%
+  meta_social(
+    title = "The MockUp Blog",
+    description = "Tom's musings on all things R",
+    url = "https://jvieroe.github.io",
+    image = "https://raw.githubusercontent.com/jthomasmock/radix_themockup/master/static/logo-plot.png",
+    image_alt = "Chaos into tidy code",
+    og_type = "website",
+    og_author = "Jeppe Vierø",
+    twitter_card_type = "summary",
+    twitter_creator = "@jvieroe"
+  )
+```
+
 ## Hi! 
 I'm a Social Data Scientist with a background in Political Science, applied quantitative methods, and causal inference.
 
