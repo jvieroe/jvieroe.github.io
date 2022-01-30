@@ -126,7 +126,7 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 }
 .grad-item {
   list-style: none; 
-  background-image: url(graduation-cap-solid.png); 
+  background-image: url(logos/graduation-cap-solid.png); 
   background-repeat: no-repeat;  
   background-size: 1.2rem; 
   padding-left: 2rem;
