@@ -13,6 +13,7 @@ links:
 output:
   postcards::trestles
 site: distill::distill_website
+listing: posts
 ---
 
 ```{r, include=FALSE, results='asis'}
