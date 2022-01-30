@@ -2230,6 +2230,15 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     vertical-align: middle;
   }
 
+  .posts-list .post-preview:hover {
+    color: #000;
+  }
+
+  .posts-list .post-preview .title:hover {
+    color: #ffa213;
+  }
+
+
 
 
 
@@ -2317,10 +2326,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   */
 
 
+
   .mylinks a{
     color: var(--main-text-color);
 
   }
+
 
 
 
@@ -2330,6 +2341,53 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     text-decoration: none;
   }
 
+
+
+
+
+  /* ------------ Link lines appear from center -----------
+
+  d-article a {
+    position: relative;
+    color: #000;
+    text-decoration: none;
+  }
+  */
+
+  a {
+    color: #ffa213;
+  }
+
+  a:hover {
+    color: #ffa213;
+  }
+
+
+  d-article a:hover {
+    color: #ffa213;
+  }
+
+
+  /*
+  d-article a::before {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 1px;
+    bottom: 0;
+    left: 0;
+    background-color: #000;
+    transform: scaleX(0);
+    transition: transform 0.5s ease;
+  }
+
+
+  d-article a:hover::before {
+    transform: scaleX(1);
+  }
+
+  */
 
 
   /* ------------ Link lines appear from center -----------
@@ -2345,17 +2403,18 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
 
 
+
   a::before {
     content: "";
     position: absolute;
     display: block;
     width: 100%;
-    height: 2px;
+    height: 1px;
     bottom: 0;
     left: 0;
     background-color: #000;
     transform: scaleX(0);
-    transition: transform 0.3s ease;
+    transition: transform 0.5s ease;
   }
 
 
@@ -2743,16 +2802,16 @@ function init_posts_list() {
 <div class="posts-container posts-with-sidebar posts-apply-limit l-screen-inset">
 <div class="posts-list">
 <h1 class="posts-list-caption" data-caption="Blog">Blog</h1>
-<a href="posts/2022-01-25-welcome/" class="post-preview">
+<a href="posts/2022-01-30-welcome/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":["distill","welcome"]}</script>
 <div class="metadata">
-<div class="publishedDate">Jan. 25, 2022</div>
+<div class="publishedDate">Jan. 30, 2022</div>
 <div class="dt-authors">
 <div class="dt-author">Jeppe Vierø</div>
 </div>
 </div>
 <div class="thumbnail">
-<img src="posts/2022-01-25-welcome/spacex-OHOU-5UVIYQ-unsplash.jpg"/>
+<img src="posts/2022-01-30-welcome/spacex-OHOU-5UVIYQ-unsplash.jpg"/>
 </div>
 <div class="description">
 <h2>Welcome</h2>

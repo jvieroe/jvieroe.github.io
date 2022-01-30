@@ -1,6 +1,6 @@
 [
   {
-    "path": "posts/2022-01-25-welcome/",
+    "path": "posts/2022-01-30-welcome/",
     "title": "Welcome",
     "description": "A trial blog post: Take-off!",
     "author": [
@@ -9,14 +9,14 @@
         "url": "jvieroe.github.io"
       }
     ],
-    "date": "2022-01-25",
+    "date": "2022-01-30",
     "categories": [
       "distill",
       "welcome"
     ],
     "contents": "\nMy very first blog post\nThere is nothing of real interest here. This post only exists as a test of the {distill} package’s blog features as well as, more importantly, my ability to use them.\nAs you were!\nTake-off!\nPhoto by SpaceX on Unsplash",
-    "preview": "posts/2022-01-25-welcome/spacex-OHOU-5UVIYQ-unsplash.jpg",
-    "last_modified": "2022-01-25T21:43:14+01:00",
+    "preview": "posts/2022-01-30-welcome/spacex-OHOU-5UVIYQ-unsplash.jpg",
+    "last_modified": "2022-01-30T18:04:02+01:00",
     "input_file": {}
   }
 ]

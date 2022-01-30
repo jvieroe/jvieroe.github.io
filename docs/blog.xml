@@ -7,17 +7,17 @@
     <description>jvieroe.github.io
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Welcome</title>
       <dc:creator>Jeppe Vierø</dc:creator>
-      <link>jvieroe.github.io/posts/2022-01-25-welcome</link>
+      <link>jvieroe.github.io/posts/2022-01-30-welcome</link>
       <description>A trial blog post: Take-off!</description>
       <category>distill</category>
       <category>welcome</category>
-      <guid>jvieroe.github.io/posts/2022-01-25-welcome</guid>
-      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <media:content url="jvieroe.github.io/posts/2022-01-25-welcome/spacex-OHOU-5UVIYQ-unsplash.jpg" medium="image" type="image/jpeg"/>
+      <guid>jvieroe.github.io/posts/2022-01-30-welcome</guid>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      <media:content url="jvieroe.github.io/posts/2022-01-30-welcome/spacex-OHOU-5UVIYQ-unsplash.jpg" medium="image" type="image/jpeg"/>
     </item>
   </channel>
 </rss>

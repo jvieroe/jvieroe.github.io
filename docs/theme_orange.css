@@ -116,6 +116,15 @@ d-appendix {
   vertical-align: middle;
 }
 
+.posts-list .post-preview:hover {
+  color: #000;
+}
+
+.posts-list .post-preview .title:hover {
+  color: #ffa213;
+}
+
+
 
 
 
@@ -203,10 +212,12 @@ p code, li code {
 */
 
 
+
 .mylinks a{
   color: var(--main-text-color);
 
 }
+
 
 
 
@@ -216,6 +227,53 @@ d-article a:hover {
   text-decoration: none;
 }
 
+
+
+
+
+/* ------------ Link lines appear from center -----------
+
+d-article a {
+  position: relative;
+  color: #000;
+  text-decoration: none;
+}
+*/
+
+a {
+  color: #ffa213;
+}
+
+a:hover {
+  color: #ffa213;
+}
+
+
+d-article a:hover {
+  color: #ffa213;
+}
+
+
+/*
+d-article a::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 1px;
+  bottom: 0;
+  left: 0;
+  background-color: #000;
+  transform: scaleX(0);
+  transition: transform 0.5s ease;
+}
+
+
+d-article a:hover::before {
+  transform: scaleX(1);
+}
+
+*/
 
 
 /* ------------ Link lines appear from center -----------
@@ -231,17 +289,18 @@ a:hover {
 }
 
 
+
 a::before {
   content: "";
   position: absolute;
   display: block;
   width: 100%;
-  height: 2px;
+  height: 1px;
   bottom: 0;
   left: 0;
   background-color: #000;
   transform: scaleX(0);
-  transition: transform 0.3s ease;
+  transition: transform 0.5s ease;
 }
 
 
