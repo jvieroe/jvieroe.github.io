@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "My very first blog post"
 description: |
   A trial blog post: Take-off!
 categories:
@@ -25,15 +25,13 @@ draft: false
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
-## My very first blog post
+![Photo by SpaceX on Unsplash](spacex-OHOU-5UVIYQ-unsplash.jpg){width=75%}
 
 There is nothing of real interest here. This post only exists as a test of the <a href="https://distillery.rbind.io" target="_blank">{distill}</a> package's blog features as well as, more importantly, my ability to use them.
 
-As you were!
+Take-off!
 
-### Take-off!
-![Photo by SpaceX on Unsplash](spacex-OHOU-5UVIYQ-unsplash.jpg){width=75%}
+
 
 <!-- ```{r, include=TRUE, echo=TRUE, message=FALSE, warning=FALSE} -->
 <!-- library(ggplot2) -->
