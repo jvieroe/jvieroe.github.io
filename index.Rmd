@@ -24,7 +24,7 @@ meta() %>%
     title = "The MockUp Blog",
     description = "Tom's musings on all things R",
     url = "https://jvieroe.github.io",
-    image = "https://raw.githubusercontent.com/jthomasmock/radix_themockup/master/static/logo-plot.png",
+    image = "https://raw.githubusercontent.com/jvieroe/jvieroe.github.io/main/images/sl_plot.png",
     image_alt = "Chaos into tidy code",
     og_type = "website",
     og_author = "Jeppe Vierø",
