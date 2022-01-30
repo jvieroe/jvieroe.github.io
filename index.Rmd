@@ -21,11 +21,11 @@ library(metathis)
 
 meta() %>%
   meta_social(
-    title = "The MockUp Blog",
-    description = "Tom's musings on all things R",
+    title = "JVieroe",
+    description = "Code, Plots, and all things R",
     url = "https://jvieroe.github.io",
     image = "https://raw.githubusercontent.com/jvieroe/jvieroe.github.io/main/images/sl_plot.png",
-    image_alt = "Chaos into tidy code",
+    image_alt = "Serial development",
     og_type = "website",
     og_author = "Jeppe Vierø",
     twitter_card_type = "summary",
