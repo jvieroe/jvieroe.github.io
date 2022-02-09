@@ -43,13 +43,20 @@ meta() %>%
 ## #TidyTuesday contributions
 
 
-### 2022 | Week 1: Bring Your Own Data
 
-<a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/code_ming.R"> Code</a> • <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png"> Download </a>
 
-![#TidyTuesday | 2022 | Week 1: Bring Your Own Data](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png?raw=true){width=85%}
+### 2022 | Week 5: Dog breeds
 
-<!-- [![#TidyTuesday | 2022 | Week 1: Bring Your Own Data](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png?raw=true){width=85%}](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png) -->
+<a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_05/code_dogs.R"> Code</a> • <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_05/dogs.png"> Download </a>
+
+![#TidyTuesday | 2022 | Week 5: Dog breeds](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_05/dogs.png?raw=true){width=85%}
+
+
+### 2022 | Week 4: Board Games
+
+<a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_04/code_boardgames.R"> Code</a> • <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_04/boardgames.png"> Download </a>
+
+![#TidyTuesday | 2022 | Week 4: Board games](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_04/boardgames.png?raw=true){width=85%}
 
 ### 2022 | Week 2: Bee Colony losses
 
@@ -58,11 +65,13 @@ meta() %>%
 ![#TidyTuesday | 2022 | Week 2: Bee Colony losses](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_02/bees.png?raw=true){width=85%}
 
 
-### 2022 | Week 4: Board Games
+### 2022 | Week 1: Bring Your Own Data
 
-<a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_04/code_boardgames.R"> Code</a> • <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_04/boardgames.png"> Download </a>
+<a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/code_ming.R"> Code</a> • <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png"> Download </a>
 
-![#TidyTuesday | 2022 | Week 4: Board games](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_04/boardgames.png?raw=true){width=85%}
+![#TidyTuesday | 2022 | Week 1: Bring Your Own Data](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png?raw=true){width=85%}
+
+<!-- [![#TidyTuesday | 2022 | Week 1: Bring Your Own Data](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png?raw=true){width=85%}](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_01/ming.png) -->
 
 
 
