@@ -18,22 +18,11 @@ output:
     highlight: default
     highlight_downlit: false
 draft: false
+twitter:
+  site: "@jvieroe"
+  creater: "jvieroe"
 ---
 
-```{r, include=FALSE, results='asis'}
-library(metathis)
-
-meta() %>%
-  meta_social(
-    url = "https://jvieroe.github.io",
-    image = "https://github.com/jvieroe/jvieroe.github.io/raw/main/_posts/2022-01-30-welcome/spacex-OHOU-5UVIYQ-unsplash.jpg",
-    image_alt = "Take-off",
-    og_type = "website",
-    og_author = "Jeppe Vierø",
-    twitter_card_type = "summary",
-    twitter_creator = "@jvieroe"
-  )
-```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
