@@ -6,7 +6,7 @@
     "author": [
       {
         "name": "Jeppe Vierø",
-        "url": "jvieroe.github.io"
+        "url": "https://twitter.com/jvieroe"
       }
     ],
     "date": "2022-01-30",
@@ -16,7 +16,7 @@
     ],
     "contents": "\nPhoto by SpaceX on UnsplashThere is nothing of real interest here. This post only exists as a test of the {distill} package’s blog features as well as, more importantly, my ability to use them.\nTake-off!\n\n\n\n\n\n\n\n\n",
     "preview": "posts/2022-01-30-welcome/spacex-OHOU-5UVIYQ-unsplash.jpg",
-    "last_modified": "2022-02-14T19:57:18+01:00",
+    "last_modified": "2022-02-14T20:02:44+01:00",
     "input_file": {}
   }
 ]
