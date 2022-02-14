@@ -26,7 +26,7 @@ library(metathis)
 meta() %>%
   meta_social(
     url = "https://jvieroe.github.io",
-    image = "spacex-OHOU-5UVIYQ-unsplash.jpg",
+    image = "https://github.com/jvieroe/jvieroe.github.io/raw/main/_posts/2022-01-30-welcome/spacex-OHOU-5UVIYQ-unsplash.jpg",
     image_alt = "Take-off",
     og_type = "website",
     og_author = "Jeppe Vierø",
