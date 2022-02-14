@@ -20,6 +20,20 @@ output:
 draft: false
 ---
 
+```{r, include=FALSE, results='asis'}
+library(metathis)
+
+meta() %>%
+  meta_social(
+    url = "https://jvieroe.github.io",
+    image = "https://raw.githubusercontent.com/jvieroe/jvieroe.github.io/main/images/sl_plot.png",
+    image_alt = "Serial development",
+    og_type = "website",
+    og_author = "Jeppe Vierø",
+    twitter_card_type = "summary",
+    twitter_creator = "@jvieroe"
+  )
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

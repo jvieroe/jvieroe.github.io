@@ -1,5 +1,27 @@
 [
   {
+    "path": "posts/2022-02-14-distill-blog/",
+    "title": "Creating a website with {distill}",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Jeppe Vierø",
+        "url": "jvieroe.github.io"
+      }
+    ],
+    "date": "2022-02-14",
+    "categories": [
+      "distill",
+      "R"
+    ],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n",
+    "preview": "posts/2022-02-14-distill-blog/distill.png",
+    "last_modified": "2022-02-14T19:16:42+01:00",
+    "input_file": {},
+    "preview_width": 2521,
+    "preview_height": 2911
+  },
+  {
     "path": "posts/2022-01-30-welcome/",
     "title": "My very first blog post",
     "description": "A trial blog post: Take-off!",
@@ -16,7 +38,7 @@
     ],
     "contents": "\nPhoto by SpaceX on UnsplashThere is nothing of real interest here. This post only exists as a test of the {distill} package’s blog features as well as, more importantly, my ability to use them.\nTake-off!\n\n\n\n\n\n\n\n\n",
     "preview": "posts/2022-01-30-welcome/spacex-OHOU-5UVIYQ-unsplash.jpg",
-    "last_modified": "2022-01-30T18:33:49+01:00",
+    "last_modified": "2022-02-14T19:21:10+01:00",
     "input_file": {}
   }
 ]
