@@ -26,8 +26,8 @@ library(metathis)
 meta() %>%
   meta_social(
     url = "https://jvieroe.github.io",
-    image = "https://raw.githubusercontent.com/jvieroe/jvieroe.github.io/main/images/sl_plot.png",
-    image_alt = "Serial development",
+    image = "spacex-OHOU-5UVIYQ-unsplash.jpg",
+    image_alt = "Take-off",
     og_type = "website",
     og_author = "Jeppe Vierø",
     twitter_card_type = "summary",
