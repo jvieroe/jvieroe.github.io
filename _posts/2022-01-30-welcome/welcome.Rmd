@@ -20,7 +20,7 @@ output:
 draft: false
 twitter:
   site: "@jvieroe"
-  creater: "jvieroe"
+  creater: "@jvieroe"
 ---
 
 
