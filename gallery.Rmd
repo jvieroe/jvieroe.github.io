@@ -42,6 +42,14 @@ meta() %>%
 
 ## #TidyTuesday contributions
 
+### 2022 | Week 7: #DuBoisChallenge2022
+
+<a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_07/code_dubois.R"> Code</a> • <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_07/dubois.png"> Download </a>
+
+![#TidyTuesday | 2022 | Week 6: Tuskegee Airmen](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_07/dubois.png?raw=true){width=85%}
+
+
+
 
 ### 2022 | Week 6: Tuskegee Airmen
 
