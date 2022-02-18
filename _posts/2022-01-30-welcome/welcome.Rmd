@@ -17,6 +17,7 @@ output:
     code_folding: false
     highlight: default
     highlight_downlit: false
+    toc: true
 draft: false
 twitter:
   site: "@jvieroe"
