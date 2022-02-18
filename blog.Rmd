@@ -15,7 +15,7 @@ meta() %>%
     image_alt = "Serial development",
     og_type = "website",
     og_author = "Jeppe Vierø",
-    twitter_card_type = "summary",
+    twitter_card_type = "summary_large_image",
     twitter_creator = "@jvieroe"
   )
 ```
