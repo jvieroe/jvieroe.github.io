@@ -5,12 +5,12 @@ description: |
 categories:
   - distill
   - welcome
-preview: spacex-OHOU-5UVIYQ-unsplash.jpg
 author:
   - name: Jeppe Vierø
     url: https://twitter.com/jvieroe
 date: 2022-01-30
 baseurl: https://jvieroe.github.io/
+preview: spacex-OHOU-5UVIYQ-unsplash.jpg
 output:
   distill::distill_article:
     self_contained: false
