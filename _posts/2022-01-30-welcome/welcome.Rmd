@@ -10,7 +10,7 @@ author:
   - name: Jeppe Vierø
     url: https://twitter.com/jvieroe
 date: 2022-01-30
-baseurl: jvieroe.github.io/
+baseurl: https://jvieroe.github.io/
 output:
   distill::distill_article:
     self_contained: false

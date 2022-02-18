@@ -2,8 +2,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>jvieroe</title>
-    <link>jvieroe.github.io/</link>
-    <atom:link href="jvieroe.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+    <link>https://jvieroe.github.io/</link>
+    <atom:link href="https://jvieroe.github.io/blog.xml" rel="self" type="application/rss+xml"/>
     <description>jvieroe.github.io
 </description>
     <generator>Distill</generator>
@@ -11,13 +11,13 @@
     <item>
       <title>My very first blog post</title>
       <dc:creator>Jeppe Vierø</dc:creator>
-      <link>jvieroe.github.io/posts/2022-01-30-welcome</link>
+      <link>https://jvieroe.github.io/posts/2022-01-30-welcome</link>
       <description>A trial blog post: Take-off!</description>
       <category>distill</category>
       <category>welcome</category>
-      <guid>jvieroe.github.io/posts/2022-01-30-welcome</guid>
+      <guid>https://jvieroe.github.io/posts/2022-01-30-welcome</guid>
       <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
-      <media:content url="jvieroe.github.io/posts/2022-01-30-welcome/spacex-OHOU-5UVIYQ-unsplash.jpg" medium="image" type="image/jpeg"/>
+      <media:content url="https://jvieroe.github.io/posts/2022-01-30-welcome/spacex-OHOU-5UVIYQ-unsplash.jpg" medium="image" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
