@@ -7,7 +7,19 @@
     <description>jvieroe.github.io
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Creating a website with {distill}</title>
+      <dc:creator>Jeppe Vierø</dc:creator>
+      <link>https://jvieroe.github.io/posts/2022-02-18-creating-a-website-with-distill</link>
+      <description>Useful resources for creating your first {distill} site.</description>
+      <category>distill</category>
+      <category>R</category>
+      <category>Tutorial</category>
+      <guid>https://jvieroe.github.io/posts/2022-02-18-creating-a-website-with-distill</guid>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://jvieroe.github.io/posts/2022-02-18-creating-a-website-with-distill/distill.png" medium="image" type="image/png" width="2521" height="2911"/>
+    </item>
     <item>
       <title>My very first blog post</title>
       <dc:creator>Jeppe Vierø</dc:creator>
