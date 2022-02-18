@@ -5,7 +5,7 @@ description: |
 categories:
   - distill
   - welcome
-preview: "spacex-OHOU-5UVIYQ-unsplash.jpg"
+preview: "_posts/2022-01-30-welcome/spacex-OHOU-5UVIYQ-unsplash.jpg"
 author:
   - name: Jeppe Vierø
     url: https://twitter.com/jvieroe
