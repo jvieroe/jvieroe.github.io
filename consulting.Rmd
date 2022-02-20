@@ -1,7 +1,7 @@
 ---
 title: "Consulting"
 description: |
-  \> xxx
+  \> I welcome consulting requests from private and public organizations, political parties, NGO's, and other organizations.
 output: distill::distill_article
 ---
   
@@ -27,15 +27,26 @@ meta() %>%
 ```
 
 
-I welcome consulting requests from private and public organizations, political parties, NGO's and other organizations.
-
 Services include:
 
 * Data visualization
 * Multivariate regression analysis
 * Causal inference
 * Geo-spatial data analysis and visualization
+* Data wrangling
 
 <br>
+
+<!-- Services include: -->
+
+<!-- <ul class="fa-ul"> -->
+<!--   <li><i class="fa-li fa fa-chart-bar"></i>Data visualization</li> -->
+<!--   <li><i class="fa-li fa fa-check-square"></i>Multivariate regression analysis</li> -->
+<!--   <li><i class="fa-li fa fa-square"></i>Causal inference</li> -->
+<!--   <li><i class="fa-li fas fa-tools"></i>Data wrangling</li> -->
+<!--   <li><i class="fa-li fa fa-square"></i>Geo-spatial data analysis and visualization</li> -->
+<!-- </ul> -->
+
+<!-- <br> -->
 
 Want to make a request or hear more about how I can help? Don't hesitate to [get in touch](mailto:jvieroe@gmail.com)!
