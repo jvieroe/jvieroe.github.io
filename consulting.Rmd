@@ -35,3 +35,7 @@ Services include:
 * Multivariate regression analysis
 * Causal inference
 * Geo-spatial data analysis and visualization
+
+<br>
+
+If you want to make a request or hear more about how I can help, don't resitate to [get in touch](mailto:jvieroe@gmail.com)!
