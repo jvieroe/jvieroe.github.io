@@ -9,7 +9,7 @@ categories:
 author:
   - name: Jeppe Vierø
     url: https://twitter.com/jvieroe
-date: 2022-02-18
+date: 2022-02-20
 baseurl: https://jvieroe.github.io/
 preview: distill_small.png
 output:
