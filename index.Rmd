@@ -34,7 +34,7 @@ meta() %>%
 ```
 
 ## Hi! 
-Text (1) My dissertation examines the politics . I'm a Social Data Scientist with a background in Political Science, applied quantitative methods, and causal inference.
+I'm a Social Data Scientist with a background in Political Science, applied quantitative methods, and causal inference.
 
 Today, I'm mostly into spatial data analysis, data visualization, football analytics, and programming in <i class="fab fa-r-project"></i>.
 
