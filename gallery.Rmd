@@ -30,7 +30,7 @@ meta() %>%
 <!-- # TidyTuesday -->
 
 
-Do you need help visualizing your data? [See here](consulting.html)!
+Do you need help visualizing your data? [See here!](consulting.html)
 
 
 ***Categories***

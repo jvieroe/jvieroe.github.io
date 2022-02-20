@@ -27,6 +27,8 @@ navbar:
     #     href: maps.html
     - text: "Software"
       href: rpackages.html
+    - text: "Consulting"
+      href: consulting.html
     - text: "About"
       href: about.html
     - icon: fab fa-github
