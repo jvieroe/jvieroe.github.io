@@ -1,7 +1,7 @@
 ---
 title: "Consulting"
 description: |
-  \> Below I showcase a selection of my recent data visualizations. All of these are coded in the programming language <i class="fab fa-r-project"></i> using the `ggplot2` package
+  \> xxx
 output: distill::distill_article
 ---
   
@@ -27,6 +27,11 @@ meta() %>%
 ```
 
 
-## R Markdown
+I welcome consulting requests from private and public organizations, political parties, NGO's and other organizations.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Services include:
+
+* Data visualization
+* Multivariate regression analysis
+* Causal inference
+* Geo-spatial data analysis and visualization
