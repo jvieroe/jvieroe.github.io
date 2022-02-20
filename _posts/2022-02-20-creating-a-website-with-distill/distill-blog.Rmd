@@ -60,7 +60,7 @@ Prior to launching this site, I had no experiencing with web management and crea
 
 ## Customizing your theme
 
-As someone new to CSS, one of the things that drew me towards {distill} was the fact that it's an [opinionataed framework](https://stackoverflow.com/questions/802050/what-is-opinionated-software). This means that there is less customization that you _can do_. It also means, however, that there is less customization you _have to do_ before you have a nice-looking site.
+As someone new to CSS, one of the things that drew me towards {distill} was the fact that it's an [opinionated framework](https://stackoverflow.com/questions/802050/what-is-opinionated-software). This means that there is less customization that you _can do_. It also means, however, that there is less customization you _have to do_ before you have a nice-looking site.
 
 * The Distillery's [Showcase](https://jhelvy.github.io/distillery/showcase) section is an amazing resource. There are so many cool (and cool-looking) sites on there and their open source code means that you can allow yourself to be inspired by their theme -- and, more importantly, how they arrived at it!
 * I still don't really know CSS but I managed to piggyback from some great existing sites, including those of [Harry Fisher](https://www.hfshr.xyz), [Shannon Pileggi, PhD](https://www.pipinghotdata.com), and [Etienne Bacher](https://www.etiennebacher.com)
