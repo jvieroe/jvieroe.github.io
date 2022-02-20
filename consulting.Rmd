@@ -1,0 +1,32 @@
+---
+title: "Consulting"
+description: |
+  \> Below I showcase a selection of my recent data visualizations. All of these are coded in the programming language <i class="fab fa-r-project"></i> using the `ggplot2` package
+output: distill::distill_article
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, include=FALSE, results='asis'}
+library(metathis)
+
+meta() %>%
+  meta_social(
+    title = "jvieroe: Consulting",
+    description = "Code, Plots, and All Things R",
+    url = "https://jvieroe.github.io",
+    image = "https://raw.githubusercontent.com/jvieroe/jvieroe.github.io/main/images/sl_plot.png",
+    image_alt = "Serial development",
+    og_type = "website",
+    og_author = "Jeppe Vierø",
+    twitter_card_type = "summary_large_image",
+    twitter_creator = "@jvieroe"
+  )
+```
+
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
