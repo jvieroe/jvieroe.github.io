@@ -46,11 +46,21 @@ Do you need help visualizing your data? [See here!](consulting.html)
 
 ## #TidyTuesday contributions
 
+
+### 2022 | Week 8: World Freedom Index
+
+<a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_08/code_fh.R"> Code</a> • <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_08/fh.png"> Download </a>
+
+![#TidyTuesday | 2022 | Week 8: World Freedom Index](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_08/fh.png?raw=true){width=85%}
+
+
+
+
 ### 2022 | Week 7: #DuBoisChallenge2022
 
 <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_07/code_dubois.R"> Code</a> • <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_07/dubois.png"> Download </a>
 
-![#TidyTuesday | 2022 | Week 6: Tuskegee Airmen](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_07/dubois.png?raw=true){width=85%}
+![#TidyTuesday | 2022 | Week 7: #DuBoisChallenge2022](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_07/dubois.png?raw=true){width=85%}
 
 
 
