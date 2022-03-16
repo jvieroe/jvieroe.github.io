@@ -47,6 +47,14 @@ Do you need help visualizing your data? [See here!](consulting.html)
 ## #TidyTuesday contributions
 
 
+### 2022 | Week 9: Alternative Fuel Stations
+
+<a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_09/code_fuel.R"> Code</a> • <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_09/fuel.png"> Download </a>
+
+![#TidyTuesday | 2022 | Week 9: Alternative Fuel Stations](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_09/fuel.png?raw=true){width=85%}
+
+
+
 ### 2022 | Week 8: World Freedom Index
 
 <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_08/code_fh.R"> Code</a> • <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_08/fh.png"> Download </a>
