@@ -16,9 +16,9 @@
       "sf",
       "ggplot2"
     ],
-    "contents": "\n\nPhoto by Jez Timms on Unsplash\n\n\n\nx\n\n\n",
+    "contents": "\n\nPhoto by Jez Timms on Unsplash\n\n\n\n\n\n\nhexa <- read_sf(dsn = “2022/week_02/data/us_states_hexgrid”, layer = “us_states_hexgrid”)\n\n\n",
     "preview": "posts/2022-04-02-create-a-hex-grid-map-of-us-states-in-1-minute/hex_bees.jpg",
-    "last_modified": "2022-04-02T17:47:55+02:00",
+    "last_modified": "2022-04-02T17:53:10+02:00",
     "input_file": {}
   },
   {

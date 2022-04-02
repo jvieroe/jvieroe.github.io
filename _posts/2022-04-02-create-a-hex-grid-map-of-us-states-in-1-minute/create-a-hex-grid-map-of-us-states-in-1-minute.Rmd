@@ -46,4 +46,11 @@ library(ggplot2)
 ```
 
 
-x
+
+
+```{r, warning=FALSE, message=FALSE}
+hexa <- read_sf(dsn = "data_misc/us_states_hexgrid",
+                layer = "us_states_hexgrid")
+
+```
+
