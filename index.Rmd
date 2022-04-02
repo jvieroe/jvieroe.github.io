@@ -2,15 +2,15 @@
 title: "Jeppe Vierø"
 image: "images/jvieroe.png"
 links:
-  - label: '<i class="fab fa-twitter"></i> Twitter'
+  - label: '<i class="fab fa-twitter"></i>'
     url: "https://twitter.com/jvieroe"
-  - label: '<i class="fab fa-github"></i> GitHub'
+  - label: '<i class="fab fa-github"></i>'
     url: "https://github.com/jvieroe"
-  - label: '<i class="fas fa-envelope"></i> Email'
+  - label: '<i class="fas fa-envelope"></i>'
     url: "mailto:jvieroe@gmail.com"
-  - label: '<i class="fa fa-behance"></i> Behance'
+  - label: '<i class="fa fa-behance"></i>'
     url: "https://www.behance.net/jeppevier"
-  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
+  - label: '<i class="fab fa-linkedin"></i>'
     url: "https://www.linkedin.com/in/jeppe-vierø-028b4320b/"
 output:
   postcards::trestles
