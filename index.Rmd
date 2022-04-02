@@ -8,6 +8,8 @@ links:
     url: "https://github.com/jvieroe"
   - label: '<i class="fas fa-envelope"></i> Email'
     url: "mailto:jvieroe@gmail.com"
+  - label: '<i class="fa fa-behance"></i> Behance'
+    url: "https://www.behance.net/jeppevier"
   - label: '<i class="fab fa-linkedin"></i> LinkedIn'
     url: "https://www.linkedin.com/in/jeppe-vierø-028b4320b/"
 output:
