@@ -1,0 +1,49 @@
+---
+title: "Create a Hex Grid Map of US States in 1 minute"
+description: |
+  A short description of the post.
+categories:
+  - R
+  - hexgrid
+  - sf
+  - ggplot2
+author:
+  - name: Jeppe Vierø
+    url: https://twitter.com/jvieroe
+date: 2022-04-02
+baseurl: https://jvieroe.github.io/
+preview: hex_bees.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+    code_folding: false
+    highlight: default
+    highlight_downlit: false
+    toc: true
+draft: false
+twitter:
+  site: "@jvieroe"
+  creater: "@jvieroe"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<center>
+![Photo by Jez Timms on Unsplash](hex_bees.jpg){width=75%}
+
+</center>
+
+
+```{r, warning=FALSE, message=FALSE}
+library(dplyr)
+library(magrittr)
+library(sf)
+library(ggplot2)
+
+```
+
+
+x

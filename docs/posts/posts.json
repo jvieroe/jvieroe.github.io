@@ -1,5 +1,27 @@
 [
   {
+    "path": "posts/2022-04-02-create-a-hex-grid-map-of-us-states-in-1-minute/",
+    "title": "Create a Hex Grid Map of US States in 1 minute",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Jeppe Vierø",
+        "url": "https://twitter.com/jvieroe"
+      }
+    ],
+    "date": "2022-04-02",
+    "categories": [
+      "R",
+      "hexgrid",
+      "sf",
+      "ggplot2"
+    ],
+    "contents": "\n\nPhoto by Jez Timms on Unsplash\n\n\n\nx\n\n\n",
+    "preview": "posts/2022-04-02-create-a-hex-grid-map-of-us-states-in-1-minute/hex_bees.jpg",
+    "last_modified": "2022-04-02T17:47:55+02:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2022-02-20-creating-a-website-with-distill/",
     "title": "Creating a website with {distill}",
     "description": "Useful resources for creating your first {distill} site.",
