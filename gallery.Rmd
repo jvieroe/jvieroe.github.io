@@ -47,6 +47,14 @@ Do you need help visualizing your data? [See here!](consulting.html)
 ## #TidyTuesday contributions
 
 
+### 2022 | Week 13: Collegiate Sports Budgets
+
+<a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_13/code_sports.R"> Code</a> • <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_13/sports.png"> Download </a>
+
+![#TidyTuesday | 2022 | Week 13: Collegiate Sports Budgets](https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_13/sports.png?raw=true){width=85%}
+
+
+
 ### 2022 | Week 9: Alternative Fuel Stations
 
 <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_09/code_fuel.R"> Code</a> • <a href="https://github.com/jvieroe/TidyTuesday/blob/main/2022/week_09/fuel.png"> Download </a>
