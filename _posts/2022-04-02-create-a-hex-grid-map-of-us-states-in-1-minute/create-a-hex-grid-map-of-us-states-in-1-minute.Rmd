@@ -20,7 +20,7 @@ output:
     highlight: default
     highlight_downlit: false
     toc: true
-draft: false
+draft: true
 twitter:
   site: "@jvieroe"
   creater: "@jvieroe"
@@ -28,7 +28,7 @@ twitter:
 
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <center>
@@ -46,11 +46,17 @@ library(ggplot2)
 ```
 
 
+xx
+
 
 
 ```{r, warning=FALSE, message=FALSE}
-hexa <- read_sf(dsn = "data_misc/us_states_hexgrid",
-                layer = "us_states_hexgrid")
+hex <- read_sf(dsn = "/Users/jeppeviero/Dropbox/us_states_hexgrid",
+               layer = "us_states_hexgrid")
 
 ```
 
+
+```{r, warning=FALSE, message=FALSE}
+
+```
