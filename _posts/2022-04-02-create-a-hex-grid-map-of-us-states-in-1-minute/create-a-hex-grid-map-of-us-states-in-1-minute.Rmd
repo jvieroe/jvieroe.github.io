@@ -103,6 +103,8 @@ cents <- cents %>%
 
 ```
 
+# http://joshuamccrain.com/tutorials/ggplot_maps/maps_tutorial.html
+
 ```{r, warning=FALSE, message=FALSE}
 ggplot() +
   geom_sf(data = hex, fill = "steelblue1", color = "white", size = .65) +
