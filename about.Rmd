@@ -181,14 +181,14 @@ Recently, I've been focusing on spatial data analysis 🗺️, data visualizatio
 ::: {}
 <ul class="fa-ul">
   <li><a href="https://en.wikipedia.org/wiki/R_(programming_language)" target="_blank"><i class="fab fa-r-project" style="font-size:36px;"></i></a></li>
-  <li><a href="https://en.wikipedia.org/wiki/RStudio" target="_blank"><img src="logos/RStudio-Logo-DarkGray.png" alt="" height="30"></i></a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Stata" target="_blank"><img src="logos/stata_gray.png" alt="" height="30"></a></li>
+  <!-- <li><a href="https://en.wikipedia.org/wiki/RStudio" target="_blank"><img src="logos/RStudio-Logo-DarkGray.png" alt="" height="30"></i></a></li> -->
+  <!-- <li><a href="https://en.wikipedia.org/wiki/Stata" target="_blank"><img src="logos/stata_gray.png" alt="" height="30"></a></li> -->
 </ul>
 :::
 
 ::: {}
 <ul class="fa-ul">
-  <li><a href="https://en.wikipedia.org/wiki/QGIS" target="_blank"><img src="logos/qgis-icon-darkgray.png" alt="" height="30"></a></li>
+  <!-- <li><a href="https://en.wikipedia.org/wiki/QGIS" target="_blank"><img src="logos/qgis-icon-darkgray.png" alt="" height="30"></a></li> -->
   <li><a href="https://en.wikipedia.org/wiki/Git" target="_blank"><i class="fab fa-git" style="font-size:36px;"></i></a></li>
   <li><a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><i class="fab fa-github-square" style="font-size:36px;"></i></a></li>
 </ul>
