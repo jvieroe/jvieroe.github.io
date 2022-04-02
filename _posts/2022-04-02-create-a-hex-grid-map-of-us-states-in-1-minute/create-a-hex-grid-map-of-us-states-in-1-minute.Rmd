@@ -42,6 +42,7 @@ library(dplyr)
 library(magrittr)
 library(sf)
 library(ggplot2)
+library(shadowtext)
 
 ```
 
@@ -58,5 +59,54 @@ hex <- read_sf(dsn = "/Users/jeppeviero/Dropbox/us_states_hexgrid",
 
 
 ```{r, warning=FALSE, message=FALSE}
+hex <- hex %>% 
+  mutate(state = gsub(" \\(United States\\)", "", google_nam)) %>% 
+  relocate(state, .before = geometry)
+
+
+```
+
+
+```{r, warning=FALSE, message=FALSE}
+ggplot() +
+  geom_sf(data = hex) +
+  theme_void()
+
+```
+
+```{r, warning=FALSE, message=FALSE}
+hex <- hex %>% 
+  st_transform(crs = 3857)
+
+```
+
+xx
+
+```{r, warning=FALSE, message=FALSE}
+ggplot() +
+  geom_sf(data = hex) +
+  theme_void()
+
+```
+
+```{r, warning=FALSE, message=FALSE}
+cents <- hex %>% 
+  st_centroid() %>% 
+  select(state, iso3166_2)
+
+cents <- cents %>% 
+  st_coordinates() %>%
+  as.data.frame() %>% 
+  tibble() %>% 
+  mutate(label = cents$iso3166_2)
+
+
+```
+
+```{r, warning=FALSE, message=FALSE}
+ggplot() +
+  geom_sf(data = hex, fill = "steelblue1", color = "white", size = .65) +
+  geom_shadowtext(data = cents, aes(x = X, y = Y, label = label)) +
+  theme_void()
 
 ```
