@@ -37,6 +37,8 @@ knitr::opts_chunk$set(echo = TRUE)
 </center>
 
 
+
+## Prepare Your Hex Grid
 ```{r, warning=FALSE, message=FALSE}
 library(dplyr)
 library(tidyr)
@@ -45,23 +47,14 @@ library(janitor)
 library(sf)
 library(ggplot2)
 library(shadowtext)
-
-
+library(amerika)
 ```
-
-
-xx
-
-
-# Prepare Your Hex Grid
-
 
 ```{r, warning=FALSE, message=FALSE}
 hex <- read_sf(dsn = "/Users/jeppeviero/Dropbox/us_states_hexgrid",
                layer = "us_states_hexgrid")
 
 ```
-
 
 
 ```{r, warning=FALSE, message=FALSE}
@@ -89,7 +82,7 @@ ggplot() +
 ```
 
 
-
+### Extract Centroids 
 
 ```{r, warning=FALSE, message=FALSE}
 cents <- hex %>% 
@@ -112,7 +105,7 @@ ggplot() +
 
 ```
 
-# Visualize State-level Data
+## Visualize State-level Data
 
 ```{r, warning=FALSE, message=FALSE}
 df <- readr::read_csv("dataverse_files 2/1976-2020-president.csv") %>% 
@@ -169,7 +162,7 @@ ggplot() +
 
 
 
-# Other projections
+## Other projections
 
 ```{r, warning=FALSE, message=FALSE}
 

@@ -1493,7 +1493,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <nav class="l-text toc figcaption" id="TOC">
 <h3>Contents</h3>
 <ul>
-<li><a href="#prepare-your-hex-grid">Prepare Your Hex Grid</a></li>
+<li><a href="#prepare-your-hex-grid">Prepare Your Hex Grid</a>
+<ul>
+<li><a href="#extract-centroids">Extract Centroids</a></li>
+</ul></li>
 <li><a href="#visualize-state-level-data">Visualize State-level Data</a></li>
 <li><a href="#other-projections">Other projections</a></li>
 </ul>
@@ -1504,6 +1507,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <img src="hex_bees.jpg" style="width:75.0%" alt="Photo by Jez Timms on Unsplash" /><figcaption aria-hidden="true">Photo by Jez Timms on Unsplash</figcaption>
 </figure>
 </center>
+<h2 id="prepare-your-hex-grid">Prepare Your Hex Grid</h2>
 <div class="layout-chunk" data-layout="l-body">
 <div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(dplyr)</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyr)</span>
@@ -1511,10 +1515,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(janitor)</span>
 <span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(sf)</span>
 <span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ggplot2)</span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(shadowtext)</span></code></pre></div>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(shadowtext)</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(amerika)</span></code></pre></div>
 </div>
-<p>xx</p>
-<h1 id="prepare-your-hex-grid">Prepare Your Hex Grid</h1>
 <div class="layout-chunk" data-layout="l-body">
 <div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>hex <span class="ot">&lt;-</span> <span class="fu">read_sf</span>(<span class="at">dsn =</span> <span class="st">&quot;/Users/jeppeviero/Dropbox/us_states_hexgrid&quot;</span>,</span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>               <span class="at">layer =</span> <span class="st">&quot;us_states_hexgrid&quot;</span>)</span></code></pre></div>
@@ -1536,6 +1539,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_void</span>()</span></code></pre></div>
 <p><img src="create-a-hex-grid-map-of-us-states-in-1-minute_files/figure-html5/unnamed-chunk-5-1.png" width="624" /></p>
 </div>
+<h3 id="extract-centroids">Extract Centroids</h3>
 <div class="layout-chunk" data-layout="l-body">
 <div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>cents <span class="ot">&lt;-</span> hex <span class="sc">%&gt;%</span> </span>
 <span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">st_centroid</span>() <span class="sc">%&gt;%</span> </span>
@@ -1554,7 +1558,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_void</span>()</span></code></pre></div>
 <p><img src="create-a-hex-grid-map-of-us-states-in-1-minute_files/figure-html5/unnamed-chunk-7-1.png" width="624" /></p>
 </div>
-<h1 id="visualize-state-level-data">Visualize State-level Data</h1>
+<h2 id="visualize-state-level-data">Visualize State-level Data</h2>
 <div class="layout-chunk" data-layout="l-body">
 <div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>df <span class="ot">&lt;-</span> readr<span class="sc">::</span><span class="fu">read_csv</span>(<span class="st">&quot;dataverse_files 2/1976-2020-president.csv&quot;</span>) <span class="sc">%&gt;%</span> </span>
 <span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(year <span class="sc">==</span> <span class="dv">2020</span>) <span class="sc">%&gt;%</span> </span>
@@ -1600,7 +1604,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <span id="cb10-16"><a href="#cb10-16" aria-hidden="true" tabindex="-1"></a>                               <span class="at">barheight =</span> .<span class="dv">8</span>))</span></code></pre></div>
 <p><img src="create-a-hex-grid-map-of-us-states-in-1-minute_files/figure-html5/unnamed-chunk-10-1.png" width="624" /></p>
 </div>
-<h1 id="other-projections">Other projections</h1>
+<h2 id="other-projections">Other projections</h2>
 <div class="layout-chunk" data-layout="l-body">
 <div class="sourceCode" id="cb11"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>latitude <span class="ot">&lt;-</span> <span class="dv">38</span></span>
 <span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a>longitude <span class="ot">&lt;-</span> <span class="sc">-</span><span class="dv">100</span></span>
