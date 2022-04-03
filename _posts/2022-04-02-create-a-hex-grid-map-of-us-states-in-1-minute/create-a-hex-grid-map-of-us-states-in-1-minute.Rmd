@@ -39,7 +39,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r, warning=FALSE, message=FALSE}
 library(dplyr)
+library(tidyr)
 library(magrittr)
+library(janitor)
 library(sf)
 library(ggplot2)
 library(shadowtext)
@@ -124,8 +126,6 @@ cents <- cents %>%
 
 ```
 
-http://joshuamccrain.com/tutorials/ggplot_maps/maps_tutorial.html
-
 ```{r, warning=FALSE, message=FALSE}
 ggplot() +
   geom_sf(data = hex, fill = "steelblue1", color = "white", size = .65) +
@@ -134,6 +134,43 @@ ggplot() +
 
 ```
 ```{r, warning=FALSE, message=FALSE}
-df <- x
+df <- readr::read_csv("dataverse_files 2/1976-2020-president.csv") %>% 
+  filter(year == 2020) %>% 
+  filter(party_detailed %in% c("DEMOCRAT", "REPUBLICAN")) %>% 
+  select(state, state_po, party_detailed, candidatevotes)
+
+df <- df %>% 
+  pivot_wider(id_cols = starts_with("state"),
+              values_from = candidatevotes,
+              names_from = party_detailed) %>% 
+  clean_names()
+
+df <- df %>% 
+  rowwise() %>% 
+  mutate(twoparty_votes = sum(democrat, republican)) %>% 
+  ungroup()
+
+df <- df %>% 
+  mutate(democratic_voteshare = democrat/twoparty_votes)
+
+```
+
+
+
+
+```{r, warning=FALSE, message=FALSE}
+
+hex <- hex %>% 
+  tidylog::left_join(.,
+                     df,
+                     by = c("iso3166_2" = "state_po"))
+
+```
+
+```{r, warning=FALSE, message=FALSE}
+ggplot() +
+  geom_sf(data = hex, aes(fill = democratic_voteshare), color = "white", size = .65) +
+  geom_shadowtext(data = cents, aes(x = X, y = Y, label = label)) +
+  theme_void()
 
 ```
