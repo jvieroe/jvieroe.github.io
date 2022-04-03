@@ -50,6 +50,13 @@ library(shadowtext)
 library(amerika)
 ```
 
+
+<a href="https://team.carto.com/u/andrew/tables/andrew.us_states_hexgrid/public/map" target="_blank">us_states_hexgrid</a> data set by <a href="https://andrewxhill.com/about/" target="_blank">Andrew Hill</a>. For the purpose of this tutorial, make sure to download the `SHP` version
+
+
+
+
+
 ```{r, warning=FALSE, message=FALSE}
 hex <- read_sf(dsn = "/Users/jeppeviero/Dropbox/us_states_hexgrid",
                layer = "us_states_hexgrid")
