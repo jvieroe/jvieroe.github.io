@@ -1529,22 +1529,38 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <p><img src="create-a-hex-grid-map-of-us-states-in-1-minute_files/figure-html5/unnamed-chunk-6-1.png" width="624" /></p>
 </div>
 <div class="layout-chunk" data-layout="l-body">
-<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>cents <span class="ot">&lt;-</span> hex <span class="sc">%&gt;%</span> </span>
-<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">st_centroid</span>() <span class="sc">%&gt;%</span> </span>
-<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">select</span>(state, iso3166_2)</span>
-<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a>cents <span class="ot">&lt;-</span> cents <span class="sc">%&gt;%</span> </span>
-<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">st_coordinates</span>() <span class="sc">%&gt;%</span></span>
-<span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">as.data.frame</span>() <span class="sc">%&gt;%</span> </span>
-<span id="cb7-8"><a href="#cb7-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">tibble</span>() <span class="sc">%&gt;%</span> </span>
-<span id="cb7-9"><a href="#cb7-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">label =</span> cents<span class="sc">$</span>iso3166_2)</span></code></pre></div>
+<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>latitude <span class="ot">&lt;-</span> <span class="dv">38</span></span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>longitude <span class="ot">&lt;-</span> <span class="sc">-</span><span class="dv">100</span></span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>ortho <span class="ot">&lt;-</span> <span class="fu">paste0</span>(<span class="st">&#39;+proj=ortho +lat_0=&#39;</span>, latitude, <span class="st">&#39; +lon_0=&#39;</span>, longitude,</span>
+<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a>                <span class="st">&#39; +x_0=0 +y_0=0 +a=6371000 +b=6371000 +units=m +no_defs&#39;</span>)</span>
+<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-8"><a href="#cb7-8" aria-hidden="true" tabindex="-1"></a>hex <span class="sc">%&gt;%</span> </span>
+<span id="cb7-9"><a href="#cb7-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">st_transform</span>(ortho) <span class="sc">%&gt;%</span> </span>
+<span id="cb7-10"><a href="#cb7-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>() <span class="sc">+</span></span>
+<span id="cb7-11"><a href="#cb7-11" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_sf</span>(<span class="at">data =</span> hex) <span class="sc">+</span></span>
+<span id="cb7-12"><a href="#cb7-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_minimal</span>()</span></code></pre></div>
+<p><img src="create-a-hex-grid-map-of-us-states-in-1-minute_files/figure-html5/unnamed-chunk-7-1.png" width="624" /></p>
 </div>
 <div class="layout-chunk" data-layout="l-body">
-<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>() <span class="sc">+</span></span>
-<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_sf</span>(<span class="at">data =</span> hex, <span class="at">fill =</span> <span class="st">&quot;steelblue1&quot;</span>, <span class="at">color =</span> <span class="st">&quot;white&quot;</span>, <span class="at">size =</span> .<span class="dv">65</span>) <span class="sc">+</span></span>
-<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_shadowtext</span>(<span class="at">data =</span> cents, <span class="fu">aes</span>(<span class="at">x =</span> X, <span class="at">y =</span> Y, <span class="at">label =</span> label)) <span class="sc">+</span></span>
-<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_void</span>()</span></code></pre></div>
-<p><img src="create-a-hex-grid-map-of-us-states-in-1-minute_files/figure-html5/unnamed-chunk-8-1.png" width="624" /></p>
+<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>cents <span class="ot">&lt;-</span> hex <span class="sc">%&gt;%</span> </span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">st_centroid</span>() <span class="sc">%&gt;%</span> </span>
+<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">select</span>(state, iso3166_2)</span>
+<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>cents <span class="ot">&lt;-</span> cents <span class="sc">%&gt;%</span> </span>
+<span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">st_coordinates</span>() <span class="sc">%&gt;%</span></span>
+<span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">as.data.frame</span>() <span class="sc">%&gt;%</span> </span>
+<span id="cb8-8"><a href="#cb8-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">tibble</span>() <span class="sc">%&gt;%</span> </span>
+<span id="cb8-9"><a href="#cb8-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">label =</span> cents<span class="sc">$</span>iso3166_2)</span></code></pre></div>
+</div>
+<p><a href="http://joshuamccrain.com/tutorials/ggplot_maps/maps_tutorial.html" class="uri">http://joshuamccrain.com/tutorials/ggplot_maps/maps_tutorial.html</a></p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>() <span class="sc">+</span></span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_sf</span>(<span class="at">data =</span> hex, <span class="at">fill =</span> <span class="st">&quot;steelblue1&quot;</span>, <span class="at">color =</span> <span class="st">&quot;white&quot;</span>, <span class="at">size =</span> .<span class="dv">65</span>) <span class="sc">+</span></span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_shadowtext</span>(<span class="at">data =</span> cents, <span class="fu">aes</span>(<span class="at">x =</span> X, <span class="at">y =</span> Y, <span class="at">label =</span> label)) <span class="sc">+</span></span>
+<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_void</span>()</span></code></pre></div>
+<p><img src="create-a-hex-grid-map-of-us-states-in-1-minute_files/figure-html5/unnamed-chunk-9-1.png" width="624" /></p>
 </div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
