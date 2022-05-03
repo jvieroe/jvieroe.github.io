@@ -37,7 +37,7 @@ meta() %>%
 I'm a Social Data Scientist with a background in Political Science, applied quantitative methods, causal inference, and programming in <i class="fab fa-r-project"></i>.
 
 
-A former PhD student at the <a href="https://politicalscience.ku.dk" target="_blank">Department of Political Science (UCPH)</a>, I currently work as a consultant/analyst/data scientist for a private Danish consultancy firm.
+A former PhD student at the <a href="https://politicalscience.ku.dk" target="_blank">Department of Political Science (UCPH)</a>, I currently work as an analyst in the Danish government.
 
 Recently, I've been focusing on spatial data analysis 🗺️, data visualization &#128202;, and sports analytics &#9917;.
 
