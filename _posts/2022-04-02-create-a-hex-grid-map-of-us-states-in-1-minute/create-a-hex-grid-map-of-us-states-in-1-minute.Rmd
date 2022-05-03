@@ -7,6 +7,7 @@ categories:
   - hexgrid
   - sf
   - ggplot2
+  - tutorial
 author:
   - name: Jeppe Vierø
     url: https://twitter.com/jvieroe
@@ -53,6 +54,9 @@ library(amerika)
 
 <a href="https://team.carto.com/u/andrew/tables/andrew.us_states_hexgrid/public/map" target="_blank">us_states_hexgrid</a> data set by <a href="https://andrewxhill.com/about/" target="_blank">Andrew Hill</a>. For the purpose of this tutorial, make sure to download the `SHP` version
 
+
+
+<a href="https://r-graph-gallery.com/328-hexbin-map-of-the-usa.html" target="_blank">such as this one</a>
 
 
 
