@@ -147,16 +147,16 @@ coverage](https://codecov.io/gh/jvieroe/voters/branch/main/graph/badge.svg)](htt
 <br>
 
 
-### Internal packages
+<!-- ### Internal packages -->
 
-Beyond the packages listed above, I have developed the following packages that provide unified corporate visual identities for `ggplot2` objects:
-
-
-* <a href="https://github.com/jvieroe/repinion" target="_blank"><i class="fab fa-github"></i> repinion</a>
-* <a href="https://github.com/jvieroe/epinionDSB" target="_blank"><i class="fab fa-github"></i> epinionDSB</a>
+<!-- Beyond the packages listed above, I have developed the following packages that provide unified corporate visual identities for `ggplot2` objects: -->
 
 
-<br>
+<!-- * <a href="https://github.com/jvieroe/repinion" target="_blank"><i class="fab fa-github"></i> repinion</a> -->
+<!-- * <a href="https://github.com/jvieroe/epinionDSB" target="_blank"><i class="fab fa-github"></i> epinionDSB</a> -->
+
+
+<!-- <br> -->
 <br>
 
 <!-- ## dyadicdist -->
