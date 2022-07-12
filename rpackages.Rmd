@@ -147,6 +147,33 @@ coverage](https://codecov.io/gh/jvieroe/voters/branch/main/graph/badge.svg)](htt
 <br>
 
 
+## racketeer 
+
+:::: {style="display: grid; grid-template-columns: 20% 80%; grid-column-gap: 10px; line-height: 1.5rem;"}
+
+::: {}
+:::
+
+::: {}
+
+* *In progress* &ensp; <i class="fa fa-spinner fa-spin"></i> 
+* `racketeer` provides easy access to tennis stats such as ATP/WTA rankings and matches
+
+[![](https://img.shields.io/badge/devel%20version-0.0.0.9000-blue.svg)](https://github.com/https://github.com/jvieroe/racketeer)
+[![R-CMD-check](https://github.com/jvieroe/racketeer/workflows/R-CMD-check/badge.svg)](https://github.com/jvieroe/racketeer/actions)
+[![Codecov test coverage](https://codecov.io/gh/jvieroe/racketeer/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jvieroe/racketeer?branch=main)
+[![CodeFactor](https://www.codefactor.io/repository/github/jvieroe/racketeer/badge)](https://www.codefactor.io/repository/github/jvieroe/racketeer)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://cran.r-project.org/web/licenses/MIT)
+[![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![](https://img.shields.io/github/last-commit/jvieroe/racketeer.svg)](https://github.com/jvieroe/racketeer/commits/main)
+
+
+<a href="https://github.com/jvieroe/racketeer" target="_blank"><i class="fab fa-github"></i> View on GitHub</a>
+
+:::
+
+::::
+
 <!-- ### Internal packages -->
 
 <!-- Beyond the packages listed above, I have developed the following packages that provide unified corporate visual identities for `ggplot2` objects: -->
