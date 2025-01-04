@@ -51,4 +51,6 @@ If you'd like to learn more about me, what I do, and what I'm working on, check 
 
 * The [<i class="fab fa-r-project"></i> packages](rpackages.html) that I have developed
 
+* My [resumé](https://github.com/jvieroe/CV/raw/main/CV_JeppeVieroe.pdf)
+
 * My [blog](blog.html), where I occasionally post tutorials etc. 
