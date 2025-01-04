@@ -1,7 +1,7 @@
 ---
 title: "R packages"
 description: |
-  \> I love to play around in <i class="fab fa-r-project"></i> and to create tools that make some tasks a little simpler. Below are some of the packages that I have recently published/am currently working on
+  \> I looove to play around in <i class="fab fa-r-project"></i> and to create tools that make some tasks a little simpler. Below are some of the packages that I have recently published/am currently working on
 output: distill::distill_article
 ---
 
