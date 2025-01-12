@@ -36,7 +36,7 @@ meta() %>%
 
 I'm a Social Data Scientist with a background in Political Science, applied quantitative methods, causal inference, and programming in <i class="fab fa-r-project"></i>. 
 
-Beyond this, I'm interested in spatial data analysis 🗺️, data visualization &#128202;, and sports analytics &#9917;.
+Beyond this, I'm interested in spatial data analysis 🗺️, data visualization &#128202;, politics 🏛️, and sports &#9917;.
 
 A former PhD student at the <a href="https://politicalscience.ku.dk" target="_blank">Department of Political Science (UCPH)</a>, I currently work as an analyst in the Danish government.
 
@@ -56,7 +56,6 @@ A former PhD student at the <a href="https://politicalscience.ku.dk" target="_bl
     <a href="https://github.com/jvieroe" target="_blank" class="fa fa-github" style="font-size:36px;"></a> &emsp;
     <a href="mailto:jvieroe@gmail.com" target="_blank" class="fa fa-envelope" style="font-size:36px;"></a> &emsp;
     <a href="https://www.linkedin.com/in/jeppe-vierø-028b4320b/" target="_blank" class="fa fa-linkedin-square" style="font-size:36px;"></a> &emsp;
-    <a href="https://twitter.com/jvieroe" target="_blank" class="fa fa-twitter" style="font-size:36px;"></a> &emsp;
     <a href="https://www.behance.net/jeppevier" target="_blank" class="fa fa-behance" style="font-size:36px;"></a>
 </p>
 </div>
