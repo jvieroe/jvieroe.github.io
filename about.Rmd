@@ -38,7 +38,7 @@ I'm a Social Data Scientist with a background in Political Science, applied quan
 
 Beyond this, I'm interested in spatial data analysis 🗺️, data visualization &#128202;, politics 🏛️, and sports &#9917;.
 
-A former PhD student at the <a href="https://politicalscience.ku.dk" target="_blank">Department of Political Science (UCPH)</a>, I currently work as an analyst in the Danish government.
+A former PhD student at the <a href="https://politicalscience.ku.dk" target="_blank">Department of Political Science (UCPH)</a>, I currently work as a Data Scientist at the Copenhagen Police.
 
 
 
